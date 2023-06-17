@@ -1,1 +1,6 @@
 remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: AlephZ.ai
+description: AlephZ.ai website
