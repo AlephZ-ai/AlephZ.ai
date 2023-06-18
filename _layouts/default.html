@@ -7,13 +7,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   {% include head-custom.html %}
-
   {% seo %}
 </head>
-{% include after-head-custom.html %}
 
 <body>
-
+  {% include body-custom.html %}
   <header>
     <div class="container">
       <a id="a-title" href="{{ '/' | relative_url }}">
