@@ -1,6 +1,6 @@
-remote_theme: pages-theme/hacker
+remote_theme: pages-themes/hacker@vmaster
 plugins:
-- jekyll-remote-theme
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: AlephZ.ai
 description: AlephZ.ai website
