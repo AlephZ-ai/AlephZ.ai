@@ -3,6 +3,8 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: AlephZ.ai
-description: AlephZ.ai website
+description: AI for Prompt Engineers
+show_downloads: false
+google_analytics: G-FM7M58NR2T
 author:
   name: Aaron Stainback
