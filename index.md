@@ -1,5 +1,5 @@
 ---
-title: AlephZ.ai
+title: Home
 layout: page
 ---
 
