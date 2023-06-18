@@ -1,2 +1,2 @@
 # AlephZ.ai
-AlephZ.ai Discussions
+AlephZ.ai
