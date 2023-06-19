@@ -3,6 +3,7 @@ layout: default
 ---
 
 # AI for Prompt Engineers
+- [The Egg](http://www.galactanet.com/oneoff/theegg_mod.html)
 - [Meta Learning](https://rosmulski.gumroad.com/l/learn_machine_learning)
 - [MIT Missing Computer Science Semester](https://missing.csail.mit.edu)
 - [Harvard Computer Science 50 - Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
