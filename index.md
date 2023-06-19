@@ -12,6 +12,7 @@ layout: default
 - [Fast AI Lesson 0](https://www.youtube.com/watch?v=gGxe2mN3kAg)
 - [Fast AI Courses](https://course.fast.ai)
 - [Stanford Computer Science 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
+- [Fast AI Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
 - [Infer.NET](https://github.com/dotnet/infer)
 - [VideoLectures.net - Everything, Everywhere, All at Once](http://videolectures.net)
 - [The Selfish Gene - What are Memes](https://www.amazon.com/Selfish-Gene-Richard-Dawkins/dp/0199291144)
