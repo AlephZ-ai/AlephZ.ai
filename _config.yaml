@@ -4,7 +4,7 @@ plugins:
 
 title: AlephZ.ai
 description: AI for Prompt Engineers
-show_downloads: false
+show_downloads: true
 google:
   tag_manager: GTM-TQQJWTQ
   #analytics: G-FM7M58NR2T
