@@ -45,3 +45,9 @@ layout: default
 - [Philosophy of Mind, Brains, Consciousness, and Thinking Machines](https://www.thegreatcourses.com/courses/philosophy-of-mind-brains-consciousness-and-thinking-machines)
 - [Utilitarianism](https://www.youtube.com/watch?v=03ESwNlyG8k)
 - [Expert to Expert: Brian Beckman and Erik Meijer - Inside the .NET Reactive Framework (Rx)](https://www.youtube.com/watch?v=looJcaeboBY)
+- Strange Loop
+  - [Conference](https://thestrangeloop.com)
+  - [Videos](https://www.youtube.com/@StrangeLoopConf)
+  - [Book](https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8)
+  - [Musical](https://strangeloopmusical.com)
+ 
