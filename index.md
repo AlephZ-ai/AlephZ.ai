@@ -14,6 +14,6 @@ layout: default
 - [The Selfish Gene - What are Memes](https://www.amazon.com/Selfish-Gene-Richard-Dawkins/dp/0199291144)
 - [Things Hidden Since the Foundatinon of the World - How Memes Work](https://www.amazon.com/Things-Hidden-Since-Foundation-World-ebook/dp/B0C6TWDPMR)
 - [Memetics](https://en.wikipedia.org/wiki/Memetics)
-- [Wanting: The Power of Mimetic Desire in Everyday Life](https://www.amazon.com/gp/product/1250262488)
 - [Zero to One - Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ)
+- [Wanting: The Power of Mimetic Desire in Everyday Life](https://www.amazon.com/gp/product/1250262488)
 - [A Thousand Brains: A New Theory of Intelligence](https://www.amazon.com/gp/product/1541675819)
