@@ -63,3 +63,5 @@ layout: default
 - [CRDTs (Conflict-Free Replicated Data Types)](https://www.youtube.com/watch?v=9xFfOhasiOE)
 - [Computing Like the Brain](https://www.youtube.com/watch?v=VVbqlwCqWFc)
 - [Data Structures: The Code That Isn't There](https://www.infoq.com/presentations/Data-Structures)
+- [Category Theory For Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
+- [Category Theory: An Abstraction for Anything](https://www.youtube.com/watch?v=OLh7KKgyHoY)
