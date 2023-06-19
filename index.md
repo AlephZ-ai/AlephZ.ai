@@ -10,6 +10,7 @@ layout: default
 - [Fast AI Lesson 0](https://www.youtube.com/watch?v=gGxe2mN3kAg)
 - [Fast AI Courses](https://course.fast.ai)
 - [Stanford Computer Science 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
+- [Infer.NET](https://github.com/dotnet/infer)
 - [VideoLectures.net - Everything, Everywhere, All at Once](http://videolectures.net)
 - [The Selfish Gene - What are Memes](https://www.amazon.com/Selfish-Gene-Richard-Dawkins/dp/0199291144)
 - [Things Hidden Since the Foundatinon of the World - How Memes Work](https://www.amazon.com/Things-Hidden-Since-Foundation-World-ebook/dp/B0C6TWDPMR)
@@ -28,7 +29,7 @@ layout: default
 - Quantum Mechanics - The Physics of the Microscopic World
   - [Subscription](https://www.wondrium.com/quantum-mechanics)
   - [Course](https://www.thegreatcourses.com/courses/quantum-mechanics-the-physics-of-the-microscopic-world)
+- [Azure Quantum](https://learn.microsoft.com/en-us/azure/quantum/install-overview-qdk)
 - The Fifth Interview of Dr. Jamisson Neruda
   - [PDF](https://www.wingmakers.com/wp-content/uploads/2014/04/The-Fifth-Interview-of-Dr.-Neruda1.pdf)
   - [Video](https://www.youtube.com/watch?v=2iU_0mdCZac)
-- [Infer.NET](https://github.com/dotnet/infer)
