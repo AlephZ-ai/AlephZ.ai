@@ -32,10 +32,10 @@ layout: default
 - Quantum Mechanics - The Physics of the Microscopic World
   - [Subscription](https://www.wondrium.com/quantum-mechanics)
   - [Course](https://www.thegreatcourses.com/courses/quantum-mechanics-the-physics-of-the-microscopic-world)
-- [CalTech - The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)
 - Richard Feynman
-  - [Lecture Playlist](https://www.youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2)
-  - [The Character of Physical Law (1964)](https://www.youtube.com/watch?v=kEx-gRfuhhk)
+  - [Video Lecture - Playlist](https://www.youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2)
+  - [Video Lecture - The Character of Physical Law (1964)](https://www.youtube.com/watch?v=kEx-gRfuhhk)
+  - [CalTech - The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)
 - [Azure Quantum](https://learn.microsoft.com/en-us/azure/quantum/install-overview-qdk)
 - The Fifth Interview of Dr. Jamisson Neruda
   - [PDF](https://www.wingmakers.com/wp-content/uploads/2014/04/The-Fifth-Interview-of-Dr.-Neruda1.pdf)
