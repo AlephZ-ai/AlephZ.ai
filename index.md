@@ -50,4 +50,10 @@ layout: default
   - [Videos](https://www.youtube.com/@StrangeLoopConf)
   - [Book](https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8)
   - [Musical](https://strangeloopmusical.com)
- 
+- Distributed Consensus
+  - [Tackling Concurrency Bugs with TLA+](https://www.youtube.com/watch?v=_9B__0S21y8&t=554s)
+  - [Leslie Lamport's Temporal Logic Analyzer](https://lamport.azurewebsites.net/tla/tla.html)
+  - [Raft - The Understandable Distributed Protocol](https://www.youtube.com/watch?v=ro2fU8_mr2w)
+  - The Paxos algorithm or how to win a Turing Award
+    - [Part 1](https://www.youtube.com/watch?v=tw3gsBms-f8)
+    - [Part 2](https://www.youtube.com/watch?v=8-Bc5Lqgx_c)
