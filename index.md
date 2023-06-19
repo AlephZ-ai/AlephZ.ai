@@ -11,3 +11,6 @@ layout: default
 - [Fast AI Courses](https://course.fast.ai)
 - [Stanford Computer Science 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 - [VideoLectures.net - Everything, Everywhere, All at Once](http://videolectures.net)
+- [The Selfish Gene - What are Memes](https://www.amazon.com/Selfish-Gene-Richard-Dawkins)
+- [Things Hidden Since the Foundatino of the World - How Memes Work](https://www.amazon.com/Things-Hidden-Since-Foundation-World-ebook)
+- [Memetics](https://en.wikipedia.org/wiki/Memetics)
