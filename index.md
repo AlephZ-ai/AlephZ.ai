@@ -25,4 +25,7 @@ layout: default
 - Dangerous Knowledge
   - [Part 1](https://tpb.party/torrent/4235405/BBC_Dangerous_Knowledge_1of2_2007_DVBC_XviD_MP3)
   - [Part 2](https://tpb.party/torrent/4235408/BBC_Dangerous_Knowledge_2of2_2007_DVBC_XviD_MP3)
+- Quantum Mechanics - The Physics of the Microscopic World
+  - [Subscription](https://www.wondrium.com/quantum-mechanics)
+  - [Course](https://www.thegreatcourses.com/courses/quantum-mechanics-the-physics-of-the-microscopic-world)
  
