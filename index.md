@@ -58,7 +58,7 @@ layout: default
     - [Part 1](https://www.youtube.com/watch?v=tw3gsBms-f8)
     - [Part 2](https://www.youtube.com/watch?v=8-Bc5Lqgx_c)
   - [Proof of Work (PoW)](https://www.youtube.com/watch?v=3EUAcxhuoU4)
-  - [Proof of Stake](https://www.youtube.com/watch?v=psKDXvXdr7k)
+  - [Proof of Stake (PoS)](https://www.youtube.com/watch?v=psKDXvXdr7k)
   - [Beyond Blockchain: Convergent Consensus](https://www.youtube.com/watch?v=VVbqlwCqWFc)
 - [CRDTs (Conflict-Free Replicated Data Types)](https://www.youtube.com/watch?v=9xFfOhasiOE)
 - [Computing Like the Brain](https://www.youtube.com/watch?v=VVbqlwCqWFc)
