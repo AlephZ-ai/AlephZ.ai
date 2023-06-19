@@ -22,3 +22,7 @@ layout: default
 - [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/gp/product/1119473861)
 - [A Wrinkle in Time](https://www.amazon.com/Wrinkle-Time-Archival-Author-Quintet/dp/B07JHTMZFX)
 - [Foundation](https://www.amazon.com/Foundation-Isaac-Asimov-audiobook/dp/B003IF37TK)
+- Dangerous Knowledge
+  - [Part 1](https://tpb.party/torrent/4235405/BBC_Dangerous_Knowledge_1of2_2007_DVBC_XviD_MP3)
+  - [Part 2](https://tpb.party/torrent/4235408/BBC_Dangerous_Knowledge_2of2_2007_DVBC_XviD_MP3)
+ 
