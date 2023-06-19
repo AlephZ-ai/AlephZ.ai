@@ -31,3 +31,4 @@ layout: default
 - The Fifth Interview of Dr. Jamisson Neruda
   - [PDF](https://www.wingmakers.com/wp-content/uploads/2014/04/The-Fifth-Interview-of-Dr.-Neruda1.pdf)
   - [Video](https://www.youtube.com/watch?v=2iU_0mdCZac)
+- [Infer.NET](https://github.com/dotnet/infer)
