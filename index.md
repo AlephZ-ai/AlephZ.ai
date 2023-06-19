@@ -14,3 +14,4 @@ layout: default
 - [The Selfish Gene - What are Memes](https://www.amazon.com/Selfish-Gene-Richard-Dawkins/dp/0199291144)
 - [Things Hidden Since the Foundatinon of the World - How Memes Work](https://www.amazon.com/Things-Hidden-Since-Foundation-World-ebook/dp/B0C6TWDPMR)
 - [Memetics](https://en.wikipedia.org/wiki/Memetics)
+- [Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ)
