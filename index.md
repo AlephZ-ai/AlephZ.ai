@@ -3,4 +3,4 @@ layout: default
 ---
 
 # AI for Prompt Engineers
-[Fast AI Cources](https://course.fast.ai)
+[Fast AI Courses](https://course.fast.ai)
