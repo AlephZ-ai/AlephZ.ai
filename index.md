@@ -42,3 +42,4 @@ layout: default
   - [Video](https://www.youtube.com/watch?v=2iU_0mdCZac)
 - [Stanford - John Searle - The Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room)
 - [Philosophy of Mind, Brains, Consciousness, and Thinking Machines](https://www.thegreatcourses.com/courses/philosophy-of-mind-brains-consciousness-and-thinking-machines)
+- [Utilitarianism](https://www.youtube.com/watch?v=03ESwNlyG8k)
