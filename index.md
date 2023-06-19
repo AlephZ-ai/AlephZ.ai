@@ -10,3 +10,4 @@ layout: default
 - [Fast AI Lesson 0](https://www.youtube.com/watch?v=gGxe2mN3kAg)
 - [Fast AI Courses](https://course.fast.ai)
 - [Stanford Computer Science 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
+- [VideoLectures.net - Everything, Everywhere, All at Once](http://videolectures.net)
