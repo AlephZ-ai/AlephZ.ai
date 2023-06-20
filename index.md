@@ -10,55 +10,55 @@ layout: default
 - <span class="terminology">[Britannica's Encyclopedia](https://www.britannica.com) (1768)</span>
 - <span class=“math”>[Georg Friedrich Bernhard Riemann's Hypothesis](https://youtu.be/YTCE2SXguwU) (1859)</span>
 - <span class="terminology">[Merriam Webster's Dictionary](https://www.merriam-webster.com) (1828)</span>
-- <span class=“computer-science”>[John Babbage's Engine](https://www.computerhistory.org/babbage) (1837)</span>
+- <span class=“science.computer”>[John Babbage's Engine](https://www.computerhistory.org/babbage) (1837)</span>
 - <span class=“philosophy”>[John Stuart Mill's Utilitarianism](https://www.youtube.com/watch?v=03ESwNlyG8k) (1863)</span>
 - <span class=“math”>[Georg Ferdinand Ludwig Philipp Cantor's Set Theory](https://en.wikipedia.org/wiki/Set_theory) (1874)</span>
-- <span class=“computer-science”>[Ada Lovelace - World's first Programmer](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer) (1843)</span>
+- <span class=“science.computer”>[Ada Lovelace - World's first Programmer](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer) (1843)</span>
 - <span class=“physics”>[Max Planck's Quantum Mechanics](https://en.wikipedia.org/wiki/Max_Planck) (1900)</span>
   - <span class=“physics”>[Wondrum's Subscription](https://www.wondrium.com/quantum-mechanics)</span>
   - <span class=“physics”>[The Great Courses (TGC) (TTC)'s Course](https://www.thegreatcourses.com/courses/quantum-mechanics-the-physics-of-the-microscopic-world)</span>
 - <span class=“math”>[Alonzo Church's Lambda (λ) Calculus](https://plato.stanford.edu/entries/church/supplementD.html) (1932)</span>
 - <span class=“math”>[Alan Turing's Machine](https://plato.stanford.edu/entries/turing-machine) (1936)</span>
-- <span class=“computer-science”>[First Computer Bug was an Actual "Bug"](https://education.nationalgeographic.org/resource/worlds-first-computer-bug) (1947)</span>
-- <span class=“computer-science”>[Dr. Grace Hopper - World's first Coder and Bug finder](https://www.biography.com/scientist/grace-hopper) (1949)</span>
-- <span class=“computer-science”>[John von Neumann's Archiceture](https://en.wikipedia.org/wiki/Von_Neumann_architecture) (1945)</span>
+- <span class=“science.computer”>[First Computer Bug was an Actual "Bug"](https://education.nationalgeographic.org/resource/worlds-first-computer-bug) (1947)</span>
+- <span class=“science.computer”>[Dr. Grace Hopper - World's first Coder and Bug finder](https://www.biography.com/scientist/grace-hopper) (1949)</span>
+- <span class=“science.computer”>[John von Neumann's Archiceture](https://en.wikipedia.org/wiki/Von_Neumann_architecture) (1945)</span>
 - <span class=“fiction”>[Isaac Asimov's Foundation](https://www.amazon.com/Foundation-Isaac-Asimov-audiobook/dp/B003IF37TK) (1951)</span>
-- <span class=“computer-science”>[Nathaniel Rochester's Assembly](https://en.wikipedia.org/wiki/Assembly_language) (1954)</span>
+- <span class=“science.computer”>[Nathaniel Rochester's Assembly](https://en.wikipedia.org/wiki/Assembly_language) (1954)</span>
 - <span class=“fiction”>[Madeleine L'Engle's A Wrinkle in Time](https://www.amazon.com/Wrinkle-Time-Archival-Author-Quintet/dp/B07JHTMZFX) (1962)</span>
 - <span class=“physics”>[Richard Feynman's Lectures](https://en.wikipedia.org/wiki/Richard_Feynman) (1964)</span>
   - <span class=“physics”>[YouTube's Playlist](https://www.youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2)</span>
   - <span class=“physics”>[YouTube's The Character of Physical Law (1964)](https://www.youtube.com/watch?v=kEx-gRfuhhk)</span>
   - <span class=“physics”>[CalTech's The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)</span>
-- <span class=“computer-science”>[Bill Gates's Microsoft](https://microsoft.com) (1975)</span>
-- <span class="popular-science">[Richard Dawkins's The Selfish Gene - What are Memes](https://www.amazon.com/Extended-Selfish-Gene-Richard-Dawkins-dp-0198788789/dp/0198788789) (1976)</span>
+- <span class=“science.computer”>[Bill Gates's Microsoft](https://microsoft.com) (1975)</span>
+- <span class="science.popular">[Richard Dawkins's The Selfish Gene - What are Memes](https://www.amazon.com/Extended-Selfish-Gene-Richard-Dawkins-dp-0198788789/dp/0198788789) (1976)</span>
 - <span class="anthropology">[René Girard's Things Hidden Since the Foundation of the World - How Memes Work](https://www.amazon.com/Things-Hidden-Since-Foundation-World-ebook/dp/B0C6TWDPMR) (1978)</span>
-- <span class=“computer-science”>[David P. Reed Reed's G-Counter](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) (1978)</span>
+- <span class=“science.computer”>[David P. Reed Reed's G-Counter](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) (1978)</span>
 - <span class=“math”>[John Searle's Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room) (1980)</span>
-- <span class=“computer-science”>[Leslie Lamport's Distributed Consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science)) (1982)</span>
-  - <span class=“computer-science”>[Hillel Wayne's Tackling Concurrency Bugs with TLA+](https://www.youtube.com/watch?v=_9B__0S21y8&t=554s) (2019)</span>
-  - <span class=“computer-science”>[Leslie Lamport's Paxos Consensus](https://en.wikipedia.org/wiki/Paxos_(computer_science)) (1998)</span>
-    - <span class=“computer-science”>[YouToube's Part 1](https://www.youtube.com/watch?v=tw3gsBms-f8) (2017)</span>
-    - <span class=“computer-science”>[YouToube's Part 2](https://www.youtube.com/watch?v=8-Bc5Lqgx_c) (2017)</span>
-  - <span class=“computer-science”>[Stanford's Raft Consensus](https://www.youtube.com/watch?v=ro2fU8_mr2w) (2014)</span>
-  - <span class=“computer-science”>[Cynthia Dwork and Moni Naor's Blockchain Consensus](https://www.cbcamerica.org/blockchain-insights/blockchain-consensus-algorithms-what-and-how) (1992)</span>
-  - <span class=“computer-science”>[Satoshi Nakamoto's Proof of Work (PoW) Consensus](https://www.youtube.com/watch?v=3EUAcxhuoU4) (2008)</span>
-  - <span class=“computer-science”>[Sunny King and Scott Nadal's Proof of Stake (PoS) Consensus](https://www.youtube.com/watch?v=psKDXvXdr7k) (2012)</span>
-  - <span class=“computer-science”>[Mike Anderson's Beyond Blockchain: Convergent Consensus](https://thestrangeloop.com/2022/beyond-blockchain-convergent-consensus.html) (2022)</span>
+- <span class=“science.computer”>[Leslie Lamport's Distributed Consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science)) (1982)</span>
+  - <span class=“science.computer”>[Hillel Wayne's Tackling Concurrency Bugs with TLA+](https://www.youtube.com/watch?v=_9B__0S21y8&t=554s) (2019)</span>
+  - <span class=“science.computer”>[Leslie Lamport's Paxos Consensus](https://en.wikipedia.org/wiki/Paxos_(computer_science)) (1998)</span>
+    - <span class=“science.computer”>[YouToube's Part 1](https://www.youtube.com/watch?v=tw3gsBms-f8) (2017)</span>
+    - <span class=“science.computer”>[YouToube's Part 2](https://www.youtube.com/watch?v=8-Bc5Lqgx_c) (2017)</span>
+  - <span class=“science.computer”>[Stanford's Raft Consensus](https://www.youtube.com/watch?v=ro2fU8_mr2w) (2014)</span>
+  - <span class=“science.computer”>[Cynthia Dwork and Moni Naor's Blockchain Consensus](https://www.cbcamerica.org/blockchain-insights/blockchain-consensus-algorithms-what-and-how) (1992)</span>
+  - <span class=“science.computer”>[Satoshi Nakamoto's Proof of Work (PoW) Consensus](https://www.youtube.com/watch?v=3EUAcxhuoU4) (2008)</span>
+  - <span class=“science.computer”>[Sunny King and Scott Nadal's Proof of Stake (PoS) Consensus](https://www.youtube.com/watch?v=psKDXvXdr7k) (2012)</span>
+  - <span class=“science.computer”>[Mike Anderson's Beyond Blockchain: Convergent Consensus](https://thestrangeloop.com/2022/beyond-blockchain-convergent-consensus.html) (2022)</span>
 - <span class="cultural-evolution">[Wikipedia's Memetics](https://en.wikipedia.org/wiki/Memetics) (1982)</span>
-- <span class=“computer-science”>[Massachusetts Institute of Technology (MIT)'s Structure and Interpretation of Computer Programs (SICP) 6.001 Undergraduate](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures) (1981)</span>
-- <span class=“computer-science”>[Leslie Lamport's Temporal Logic Analyzer](https://lamport.azurewebsites.net/tla/tla.html) (1994)</span>
+- <span class=“science.computer”>[Massachusetts Institute of Technology (MIT)'s Structure and Interpretation of Computer Programs (SICP) 6.001 Undergraduate](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures) (1981)</span>
+- <span class=“science.computer”>[Leslie Lamport's Temporal Logic Analyzer](https://lamport.azurewebsites.net/tla/tla.html) (1994)</span>
 - <span class="spirituality">[Dr. Jamisson Neruda's Interviews](https://www.wingmakers.com/wp-content/uploads/2014/04/The-Complete-Neruda-Interviews-1-5.pdf) (1998)</span>
   - <span class="spirituality">[WingMaker's Fifth Interview](https://www.wingmakers.com/wp-content/uploads/2014/04/The-Fifth-Interview-of-Dr.-Neruda1.pdf) (2014)</span>
   - <span class="spirituality">[YouTube's Video](https://www.youtube.com/watch?v=2iU_0mdCZac) (2016)</span>
 - <span class="terminology">[Urban's Dictionary](https://www.urbandictionary.com) (1999)</span>
 - <span class="terminology">[Wikipedia's Pages](https://en.wikipedia.org/wiki/History_of_Wikipedia) (2001)</span>
 - <span class="education">[Sal Khan's Academy](https://www.khanacademy.org) (2006)</span>
-- [VideoLectures.net's - Everything, Everywhere, All at Once](http://videolectures.net) (2007)
+- <span class="education">[VideoLectures.net's - Everything, Everywhere, All at Once](http://videolectures.net) (2007)</span>
 - [Stanford's Computer Science 229 - Machine Learning](https://see.stanford.edu/Course/CS229) (2008)
 - [Microsoft's Infer.NET](https://github.com/dotnet/infer) (2008)
 - [Andy Weir's The Egg](http://www.galactanet.com/oneoff/theegg_mod.html) (2009)
 - [MIT's Missing Computer Science Semester](https://missing.csail.mit.edu) (2019)
-- [Harvard's Computer Science 50 - Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science) (2007)
+- [Harvard's Computer Science 50 - Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-science.computer) (2007)
 - [Microsoft's Azure Cloud](https://azure.com) (2010)
 - [Erik Meijer's Functional Programming Fundamentals with Haskell](https://learn.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals) (2010)
 - [Don Syme's F#](https://walkingcat.github.io/ch9-index/Series_C9-Lectures-Dr-Don-Syme-Introduction-to-F-.html) (2005)
