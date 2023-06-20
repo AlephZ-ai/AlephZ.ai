@@ -8,22 +8,4 @@
   });
 </script>
 
-<ul>
-{% for link in site.data.links %}
-  <li>
-    <a href="{{ link.url }}">{{ link.name }}</a>
-    {% if link.era == "BCE" %}
-      (c. <span class="formatted-number">{{ link.year }}</span> BC)
-    {% else %}
-      ({{ link.year }})
-    {% endif %}
-    {% if link.sublinks %}
-      <ul>
-      {% for sublink in link.sublinks %}
-        <li><a href="{{ sublink.url }}">{{ sublink.name }}</a></li>
-      {% endfor %}
-      </ul>
-    {% endif %}
-  </li>
-{% endfor %}
-</ul>
+{% include link_list.html links=site.data.links %}
