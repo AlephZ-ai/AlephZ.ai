@@ -6,11 +6,11 @@ layout: default
 - <span class=“mythology” data-era="BCE" data-year=2000000>[Prometheus's Fire](https://www.greekmyths-greekmythology.com/prometheus-fire-myth) (c. 2,000,000 BC)</span>
 - <span class=“math” data-era="BCE" data-year=500>[Pythagoras of Samos's Theorem](https://resources.wolframcloud.com/FormulaRepository/resources/Pythagorean-Theorem) (c. 500 BC)</span>
 - <span class=“math” data-era="BCE" data-year=300>[Eukleides's Geometry](https://www.bing.com/search?q=euclidean+geometry) (c. 300 BC)</span>
-- <span class=“math”>[Isaac Newton's Calculus](https://www.thegreatcourses.com/courses/understanding-calculus-problems-solutions-and-tips) (1665)</span>
-- <span class=“physics”>[Isaac Newton's Gravity](https://www.britannica.com/science/Newtons-law-of-gravitation) (1687)</span>
-- <span class="reference.encyclopedia">[Britannica's Encyclopedia](https://www.britannica.com) (1768)</span>
-- <span class=“math”>[Georg Friedrich Bernhard Riemann's Hypothesis](https://youtu.be/YTCE2SXguwU) (1859)</span>
-- <span class="math">[Georg Friedrich Bernhard Riemann's Zeta Function](https://mathworld.wolfram.com/RiemannZetaFunction.html)
+- <span class=“math” data-era="CE" data-year=1665>[Isaac Newton's Calculus](https://www.thegreatcourses.com/courses/understanding-calculus-problems-solutions-and-tips) (1665)</span>
+- <span class=“physics” data-era="CE" data-year=1687>[Isaac Newton's Gravity](https://www.britannica.com/science/Newtons-law-of-gravitation) (1687)</span>
+- <span class=“reference.encyclopedia” data-era="CE" data-year=1768>[Britannica's Encyclopedia](https://www.britannica.com) (1768)</span>
+- <span class=“math” data-era="CE" data-year=1859>[Georg Friedrich Bernhard Riemann's Hypothesis](https://youtu.be/YTCE2SXguwU) (1859)</span>
+- <span class=“math” data-era="CE" data-year=1859>[Georg Friedrich Bernhard Riemann's Zeta Function](https://mathworld.wolfram.com/RiemannZetaFunction.html) (1859)</span>
 - <span class=“science.computer”>[Charles Babbage's Engine](https://www.computerhistory.org/babbage) (1822)</span>
 - <span class="reference.dictionary">[Merriam Webster's Dictionary](https://www.merriam-webster.com) (1828)</span>
 - <span class=“philosophy”>[John Stuart Mill's Utilitarianism](https://www.youtube.com/watch?v=03ESwNlyG8k) (1863)</span>
