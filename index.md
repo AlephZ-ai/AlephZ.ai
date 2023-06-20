@@ -12,6 +12,7 @@ layout: default
 - [MIT Structure and Interpretation of Computer Programs (SICP) 6.001 Undergraduate](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures)
 - [Alan Turing's Machine](https://plato.stanford.edu/entries/turing-machine)
 - [Alonzo Church's Lambda (λ) Calculus](https://plato.stanford.edu/entries/church/supplementD.html)
+- [John von Neumann's Archiceture](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
 - [Erik Meijer - Functional Programming Fundamentals with Haskell](https://learn.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals)
 - [Fast AI Lesson 0](https://www.youtube.com/watch?v=gGxe2mN3kAg)
 - [Fast AI Courses](https://course.fast.ai)
