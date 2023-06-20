@@ -4,15 +4,6 @@ layout: default
 
 # AI for Prompt Engineers
 {% include links.html %}
-- <span class=“physics” data-era="CE" data-year=1964>[Richard Feynman's Lectures](https://en.wikipedia.org/wiki/Richard_Feynman) (1964)</span>
-  - <span class=“physics” data-era="CE" data-year=1964>[YouTube's Playlist](https://www.youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2)</span>
-  - <span class=“physics” data-era="CE" data-year=1964>[YouTube's The Character of Physical Law (1964)](https://www.youtube.com/watch?v=kEx-gRfuhhk)</span>
-  - <span class=“physics” data-era="CE" data-year=1964>[CalTech's The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)</span>
-- <span class=“science.computer”>[Bill Gates's Microsoft](https://microsoft.com) (1975)</span>
-- <span class="science.popular">[Richard Dawkins's The Selfish Gene - What are Memes](https://www.amazon.com/Extended-Selfish-Gene-Richard-Dawkins-dp-0198788789/dp/0198788789) (1976)</span>
-- <span class="anthropology">[René Girard's Things Hidden Since the Foundation of the World - How Memes Work](https://www.amazon.com/Things-Hidden-Since-Foundation-World-ebook/dp/B0C6TWDPMR) (1978)</span>
-- <span class=“science.computer”>[David P. Reed Reed's G-Counter](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) (1978)</span>
-- <span class=“math”>[John Searle's Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room) (1980)</span>
 - <span class=“science.computer”>[Leslie Lamport's Distributed Consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science)) (1982)</span>
   - <span class=“science.computer”>[Hillel Wayne's Tackling Concurrency Bugs with TLA+](https://www.youtube.com/watch?v=_9B__0S21y8&t=554s) (2019)</span>
   - <span class=“science.computer”>[Leslie Lamport's Paxos Consensus](https://en.wikipedia.org/wiki/Paxos_(computer_science)) (1998)</span>
