@@ -95,7 +95,7 @@ layout: default
 - [Unknown's CRDTs (Conflict-Free Replicated Data Types)](https://www.youtube.com/watch?v=9xFfOhasiOE)
 - [Scott Vokes's Data Structures: The Code That Isn't There](https://www.infoq.com/presentations/Data-Structures)
 - [Bartosz Milewski's Category Theory For Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
-- [Category Theory: An Abstraction for Anything](https://www.youtube.com/watch?v=OLh7KKgyHoY)
-- Lang.NEXT
+- [Alissa Pajer's Category Theory: An Abstraction for Anything](https://www.youtube.com/watch?v=OLh7KKgyHoY)
+- Microsoft's Lang.NEXT
   - [2012](https://learn.microsoft.com/en-us/events/lang-next-2012)
   - [2014](https://learn.microsoft.com/en-us/events/lang-next-2014)
