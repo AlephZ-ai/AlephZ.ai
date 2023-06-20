@@ -70,13 +70,12 @@ layout: default
 - [John Searle's Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room)
 - [The Great Courses (TGC) (TTC)'s Philosophy of Mind, Brains, Consciousness, and Thinking Machines](https://www.thegreatcourses.com/courses/philosophy-of-mind-brains-consciousness-and-thinking-machines)
 - [John Stuart Mill's Utilitarianism](https://www.youtube.com/watch?v=03ESwNlyG8k)
-- [Brian Beckman and Erik Meijer's Inside the .NET Reactive Framework (Rx)](https://www.youtube.com/watch?v=looJcaeboBY)
-- Strange Loop
-  - [Conference](https://thestrangeloop.com)
-  - [Videos](https://www.youtube.com/@StrangeLoopConf)
-  - [Book](https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8)
-  - [Musical](https://strangeloopmusical.com)
-- Distributed Consensus
+- [Erik Meijer and Brian Beckman's Inside the .NET Reactive Framework (Rx)](https://www.youtube.com/watch?v=looJcaeboBY)
+- [Douglas Hofstadter's Strange Loop](https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8)
+- [Alex Miller's Strange Loop Conference](https://thestrangeloop.com)
+  - [YouTube's Videos](https://www.youtube.com/@StrangeLoopConf)
+- [Michael R. Jackson's Strange Loop Musical](https://strangeloopmusical.com)
+- [Leslie Lamport's Distributed Consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science))
   - [Tackling Concurrency Bugs with TLA+](https://www.youtube.com/watch?v=_9B__0S21y8&t=554s)
   - [Raft - The Understandable Distributed Protocol](https://www.youtube.com/watch?v=ro2fU8_mr2w)
   - The Paxos algorithm or how to win a Turing Award
