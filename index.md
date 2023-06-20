@@ -4,8 +4,6 @@ layout: default
 
 # AI for Prompt Engineers
 - [The Egg](http://www.galactanet.com/oneoff/theegg_mod.html)
-- [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
-  - [Build](https://youtu.be/EB90z-ugdl8)
 - [MIT Missing Computer Science Semester](https://missing.csail.mit.edu)
 - [Harvard Computer Science 50 - Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 - [MIT Structure and Interpretation of Computer Programs (SICP) 6.001 Undergraduate](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures)
@@ -17,6 +15,8 @@ layout: default
 - [Dr. Grace Hopper - World's first Coder and Bug finder](https://www.biography.com/scientist/grace-hopper)
 - [John von Neumann's Archiceture](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
 - [Erik Meijer - Functional Programming Fundamentals with Haskell](https://learn.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals)
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
+  - [Build](https://youtu.be/EB90z-ugdl8)
 - [Fast AI Lesson 0](https://www.youtube.com/watch?v=gGxe2mN3kAg)
 - [Fast AI Courses](https://course.fast.ai)
 - [Meta Learning - Learn Machine Learning](https://rosmulski.gumroad.com/l/learn_machine_learning)
