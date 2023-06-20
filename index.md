@@ -12,6 +12,7 @@ layout: default
 - [John Babbag's Engine](https://www.computerhistory.org/babbage)
 - [Ada Lovelace - World's first Programmer](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer)
 - [Alan Turing's Machine](https://plato.stanford.edu/entries/turing-machine)
+- [First Computer Bug was an Actual "Bug"](https://education.nationalgeographic.org/resource/worlds-first-computer-bug)
 - [Alonzo Church's Lambda (λ) Calculus](https://plato.stanford.edu/entries/church/supplementD.html)
 - [John von Neumann's Archiceture](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
 - [Erik Meijer - Functional Programming Fundamentals with Haskell](https://learn.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals)
