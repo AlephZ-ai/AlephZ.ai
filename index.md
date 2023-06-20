@@ -10,6 +10,7 @@ layout: default
 - <span class=“physics”>[Isaac Newton's Gravity](https://www.britannica.com/science/Newtons-law-of-gravitation) (1687)</span>
 - <span class="terminology">[Britannica's Encyclopedia](https://www.britannica.com) (1768)</span>
 - <span class=“math”>[Georg Friedrich Bernhard Riemann's Hypothesis](https://youtu.be/YTCE2SXguwU) (1859)</span>
+- <span class="math">[Georg Friedrich Bernhard Riemann's Zeta Function](https://mathworld.wolfram.com/RiemannZetaFunction.html)
 - <span class="terminology">[Merriam Webster's Dictionary](https://www.merriam-webster.com) (1828)</span>
 - <span class=“science.computer”>[John Babbage's Engine](https://www.computerhistory.org/babbage) (1837)</span>
 - <span class=“philosophy”>[John Stuart Mill's Utilitarianism](https://www.youtube.com/watch?v=03ESwNlyG8k) (1863)</span>
@@ -66,10 +67,10 @@ layout: default
 - <span class=“science.computer”>[Anders Hejlsberg's .NET](https://en.wikipedia.org/wiki/.NET_Framework) (2002)</span>
 - <span class=“science.computer”>[Anders Hejlsberg's C#](https://en.wikipedia.org/wiki/C_Sharp_syntax) (2000)</span>
 - <span class="paradox">[Douglas Hofstadter's Strange Loop](https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8) (2007)</span>
-- [Georg Ferdinand Ludwig Philipp Cantor's Dangerous Knowledge](https://rutracker.org) (2007)
-  - [tpb's Part 1](https://tpb.party/torrent/4235405/BBC_Dangerous_Knowledge_1of2_2007_DVBC_XviD_MP3)
-  - [tpb's Part 2](https://tpb.party/torrent/4235408/BBC_Dangerous_Knowledge_2of2_2007_DVBC_XviD_MP3)
-  - [My Private Garden](torrentleech.org) (?)
+- <span class="health.mental">[Georg Ferdinand Ludwig Philipp Cantor's Dangerous Knowledge](https://rutracker.org) (2007)</span>
+  - <span class="hacker">[tpb's Part 1](https://tpb.party/torrent/4235405/BBC_Dangerous_Knowledge_1of2_2007_DVBC_XviD_MP3)</span>
+  - <span class="hacker">[tpb's Part 2](https://tpb.party/torrent/4235408/BBC_Dangerous_Knowledge_2of2_2007_DVBC_XviD_MP3)</span>
+  - <span class="hacker">[My Private Garden](torrentleech.org) (?)</span>
 - [TGC's Philosophy of Mind, Brains, Consciousness, and Thinking Machines](https://www.thegreatcourses.com/courses/philosophy-of-mind-brains-consciousness-and-thinking-machines) (2008)
 - [Alex Miller's Strange Loop Conference](https://thestrangeloop.com) (2009)
   - [YouTube's Videos](https://www.youtube.com/@StrangeLoopConf)
