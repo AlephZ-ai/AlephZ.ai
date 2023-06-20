@@ -31,19 +31,19 @@ layout: default
   - <span class=“physics”>[CalTech's The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)</span>
 - <span class=“computers”>[Bill Gates's Microsoft](https://microsoft.com) (1975)</span>
 - <span class="popular-science">[Richard Dawkins's The Selfish Gene - What are Memes](https://www.amazon.com/Extended-Selfish-Gene-Richard-Dawkins-dp-0198788789/dp/0198788789) (1976)</span>
-- [René Girard's Things Hidden Since the Foundation of the World - How Memes Work](https://www.amazon.com/Things-Hidden-Since-Foundation-World-ebook/dp/B0C6TWDPMR) (1978)
-- [David P. Reed Reed's G-Counter](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) (1978)
-- [John Searle's Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room) (1980)
-- [Leslie Lamport's Distributed Consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science)) (1982)
-  - [Hillel Wayne's Tackling Concurrency Bugs with TLA+](https://www.youtube.com/watch?v=_9B__0S21y8&t=554s) (2019)
-  - [Leslie Lamport's Paxos Consensus](https://en.wikipedia.org/wiki/Paxos_(computer_science)) (1998)
-    - [YouToube's Part 1](https://www.youtube.com/watch?v=tw3gsBms-f8) (2017)
-    - [YouToube's Part 2](https://www.youtube.com/watch?v=8-Bc5Lqgx_c) (2017)
-  - [Stanford's Raft Consensus](https://www.youtube.com/watch?v=ro2fU8_mr2w) (2014)
-  - [Cynthia Dwork and Moni Naor's Blockchain Consensus](https://www.cbcamerica.org/blockchain-insights/blockchain-consensus-algorithms-what-and-how) (1992)
-  - [Satoshi Nakamoto's Proof of Work (PoW) Consensus](https://www.youtube.com/watch?v=3EUAcxhuoU4) (2008)
-  - [Sunny King and Scott Nadal's Proof of Stake (PoS) Consensus](https://www.youtube.com/watch?v=psKDXvXdr7k) (2012)
-  - [Mike Anderson's Beyond Blockchain: Convergent Consensus](https://thestrangeloop.com/2022/beyond-blockchain-convergent-consensus.html) (2022)
+- <span class="anthropology">[René Girard's Things Hidden Since the Foundation of the World - How Memes Work](https://www.amazon.com/Things-Hidden-Since-Foundation-World-ebook/dp/B0C6TWDPMR) (1978)</span>
+- <span class=“computers”>[David P. Reed Reed's G-Counter](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) (1978)</span>
+- <span class=“math”>[John Searle's Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room) (1980)</span>
+- <span class=“computers”>[Leslie Lamport's Distributed Consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science)) (1982)</span>
+  - <span class=“computers”>[Hillel Wayne's Tackling Concurrency Bugs with TLA+](https://www.youtube.com/watch?v=_9B__0S21y8&t=554s) (2019)</span>
+  - <span class=“computers”>[Leslie Lamport's Paxos Consensus](https://en.wikipedia.org/wiki/Paxos_(computer_science)) (1998)</span>
+    - <span class=“computers”>[YouToube's Part 1](https://www.youtube.com/watch?v=tw3gsBms-f8) (2017)</span>
+    - <span class=“computers”>[YouToube's Part 2](https://www.youtube.com/watch?v=8-Bc5Lqgx_c) (2017)</span>
+  - <span class=“computers”>[Stanford's Raft Consensus](https://www.youtube.com/watch?v=ro2fU8_mr2w) (2014)</span>
+  - <span class=“computers”>[Cynthia Dwork and Moni Naor's Blockchain Consensus](https://www.cbcamerica.org/blockchain-insights/blockchain-consensus-algorithms-what-and-how) (1992)</span>
+  - <span class=“computers”>[Satoshi Nakamoto's Proof of Work (PoW) Consensus](https://www.youtube.com/watch?v=3EUAcxhuoU4) (2008)</span>
+  - <span class=“computers”>[Sunny King and Scott Nadal's Proof of Stake (PoS) Consensus](https://www.youtube.com/watch?v=psKDXvXdr7k) (2012)</span>
+  - <span class=“computers”>[Mike Anderson's Beyond Blockchain: Convergent Consensus](https://thestrangeloop.com/2022/beyond-blockchain-convergent-consensus.html) (2022)</span>
 - [Wikipedia's Memetics](https://en.wikipedia.org/wiki/Memetics) (1982)
 - [Massachusetts Institute of Technology (MIT)'s Structure and Interpretation of Computer Programs (SICP) 6.001 Undergraduate](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures) (1981)
 - [Leslie Lamport's Temporal Logic Analyzer](https://lamport.azurewebsites.net/tla/tla.html) (1994)
