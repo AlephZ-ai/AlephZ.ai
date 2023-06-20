@@ -3,7 +3,7 @@ layout: default
 ---
 
 # AI for Prompt Engineers
-- [[Aaron Stainback](https://github.com/AceHack)'s AlephZ.ai](https://github.com/AlephZ-ai/AlephZ.ai)
+- [Aaron Stainback](https://github.com/AceHack)['s AlephZ.ai](https://github.com/AlephZ-ai/AlephZ.ai)
 - [Merriam Webster's Dictionary](https://www.merriam-webster.com)
 - [Britannica's Encyclopedia](https://www.britannica.com)
 - [Urban's Dictionary](https://www.urbandictionary.com)
