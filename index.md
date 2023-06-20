@@ -44,7 +44,7 @@ layout: default
 - [Peter Thiel's Zero to One - Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ)
 - [Luke Burgis's Wanting: The Power of Mimetic Desire in Everyday Life](https://www.amazon.com/gp/product/1250262488)
 - [Jeff Hawkins's A Thousand Brains: A New Theory of Intelligence](https://www.amazon.com/gp/product/1541675819)
-- [Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose-ebook/dp/B003JTHXN6)
+- [Tony Hsieh's Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose-ebook/dp/B003JTHXN6)
 - [Happy at Any Cost: The Revolutionary Vision and Fatal Quest of Zappos CEO Tony Hsieh](https://www.amazon.com/Happy-Any-Cost-Revolutionary-Vision/dp/B09GW9GDGC)
 - [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/gp/product/1119473861)
 - [A Wrinkle in Time](https://www.amazon.com/Wrinkle-Time-Archival-Author-Quintet/dp/B07JHTMZFX)
