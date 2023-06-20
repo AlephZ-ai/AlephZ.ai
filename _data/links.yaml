@@ -1,5 +1,5 @@
-
-- link: { name: "Prometheus's Fire", category: mythology, url: "https://www.greekmyths-greekmythology.com/prometheus-fire-myth", era: BCE, year: 2000000 }
-- link: { name: "Pythagoras of Samos's Theorem", category: math, url: "https://resources.wolframcloud.com/FormulaRepository/resources/Pythagorean-Theorem", era: BCE, year: 500 }
-- link: { name: "Eukleides's Geometry", category: math, url: "https://www.bing.com/search?q=euclidean+geometry", era: BCE, year: 300 }
-- link: { name: "Isaac Newton's Calculus", category: math, url: "https://www.thegreatcourses.com/courses/understanding-calculus-problems-solutions-and-tips", era: CE, year: 1665 }
+links:
+- { name: "Prometheus's Fire", category: mythology, url: "https://www.greekmyths-greekmythology.com/prometheus-fire-myth", era: BCE, year: 2000000 }
+- { name: "Pythagoras of Samos's Theorem", category: math, url: "https://resources.wolframcloud.com/FormulaRepository/resources/Pythagorean-Theorem", era: BCE, year: 500 }
+- { name: "Eukleides's Geometry", category: math, url: "https://www.bing.com/search?q=euclidean+geometry", era: BCE, year: 300 }
+- { name: "Isaac Newton's Calculus", category: math, url: "https://www.thegreatcourses.com/courses/understanding-calculus-problems-solutions-and-tips", era: CE, year: 1665 }
