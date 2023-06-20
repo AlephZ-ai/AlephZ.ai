@@ -60,12 +60,11 @@
 - { name: "Microsoft's Infer.NET", category: "science.computer", url: "https://github.com/dotnet/infer", era: "CE", year: 2008 }
 - { name: "TGC's Philosophy of Mind, Brains, Consciousness, and Thinking Machines", category: "philosophy", url: "https://www.thegreatcourses.com/courses/philosophy-of-mind-brains-consciousness-and-thinking-machines", era: "CE", year: 2008 }
 - { name: "Andy Weir's The Egg", category: "philosophy", url: "http://www.galactanet.com/oneoff/theegg_mod.html", era: "CE", year: 2009 }
-- { name: "MIT's Missing Computer Science Semester", category: "science.computer", url: "https://missing.csail.mit.edu", era: "CE", year: 2019 }
-- { name: "Microsoft's Azure Cloud", category: "science.computer", url: "https://azure.com", era: "CE",year: 2010 }
-- { name: "Erik Meijer's Functional Programming Fundamentals with Haskell", category: "science.computer", url: "https://learn.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals", era: "CE", year: 2010 }
 - { name: "Alex Miller's Strange Loop Conference", category: "conference.science.computer", url: "https://thestrangeloop.com", era: "CE", year: 2009, sublinks: [
     { name: "YouTube's Videos", category: "conference.science.computer", url: "https://www.youtube.com/@StrangeLoopConf", era: "CE", year: 2009 } ]}
 - { name: "Erik Meijer and Brian Beckman's Inside the .NET Reactive Framework (Rx)", category: "science.computer", url: "https://www.youtube.com/watch?v=looJcaeboBY", era: "CE", year: 2009 }
+- { name: "Microsoft's Azure Cloud", category: "science.computer", url: "https://azure.com", era: "CE",year: 2010 }
+- { name: "Erik Meijer's Functional Programming Fundamentals with Haskell", category: "science.computer", url: "https://learn.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals", era: "CE", year: 2010 }
 - { name: "Tony Hsieh's Delivering Happiness: A Path to Profits, Passion, and Purpose", category: "business", url: "https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose-ebook/dp/B003JTHXN6", era: "CE", year: 2010 }
 - { name: "Marc Shapiro, Nuno Preguiça, Carlos Baquero and Marek Zawirski's CRDTs (Conflict-Free Replicated Data Types)", category: "science.computer", url: "https://www.youtube.com/watch?v=9xFfOhasiOE", era: "CE", year: 2011 }
 - { name: "Sunny King and Scott Nadal's Proof of Stake (PoS) Consensus", category: science.computer.consensus.distributed, url: "https://www.youtube.com/watch?v=psKDXvXdr7k", era: CE, year: 2012 }
@@ -75,6 +74,8 @@
 - { name: "Scott Vokes's Data Structures: The Code That Isn't There", category: "science.computer", url: "https://www.infoq.com/presentations/Data-Structures", era: "CE", year: 2013 }
 - { name: "David P. Reed Reed's Law", category: "theory.science.computer.network", url: "https://en.wikipedia.org/wiki/Reed%27s_law", era: "CE", year: 2013 }
 - { name: "Stanford's Raft Consensus", category: science.computer.consensus.distributed, url: "https://www.youtube.com/watch?v=ro2fU8_mr2w", era: CE, year: 2014 }
+- { name: "MIT's Missing Computer Science Semester", category: "science.computer", url: "https://missing.csail.mit.edu", era: "CE", year: 2019 }
+- { name: "Sunny King and Scott Nadal's Proof of Stake (PoS) Consensus", category: science.computer.consensus.distributed, url: "https://www.youtube.com/watch?v=psKDXvXdr7k", era: CE, year: 2012 }
 - { name: "Peter Thiel's Zero to One - Notes on Startups, or How to Build the Future", category: "business", url: "https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B003JTHXN6", era: "CE", year: 2014 }
 - { name: "Bartosz Milewski's Category Theory For Programmers", category: "math", url: "https://github.com/hmemcpy/milewski-ctfp-pdf", era: "CE", year: 2014 }
 - { name: "Scott Hanselman's dotnet", category: "science.computer", url: "https://dotnet.microsoft.com", era: "CE", year: 2014 }
