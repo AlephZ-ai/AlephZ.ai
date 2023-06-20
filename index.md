@@ -8,6 +8,7 @@ layout: default
 - [Harvard's Computer Science 50 - Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 - [MIT's Structure and Interpretation of Computer Programs (SICP) 6.001 Undergraduate](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures)
 - [Merriam Webster's Dictionary](https://www.merriam-webster.com)
+- [Urban's Dictionary](https://www.urbandictionary.com)
 - [Britannica's Encyclopedia](https://www.britannica.com)
 - [Eukleides's Geometry](https://www.bing.com/search?q=euclidean+geometry)
 - [Pythagoras of Samos's Theorem](https://resources.wolframcloud.com/FormulaRepository/resources/Pythagorean-Theorem)
