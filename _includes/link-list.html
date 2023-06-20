@@ -1,0 +1,15 @@
+<ul>
+{% for link in include.links %}
+  <li>
+    <a href="{{ link.url }}">{{ link.name }}</a>
+    {% if link.era == "BCE" %}
+      (c. <span class="formatted-number">{{ link.year }}</span> BC)
+    {% else %}
+      ({{ link.year }})
+    {% endif %}
+    {% if link.sublinks %}
+      {% include link_list.html links=link.sublinks %}
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
