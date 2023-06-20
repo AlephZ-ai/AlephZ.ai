@@ -32,19 +32,21 @@
 - { name: "John Searle's Chinese Room Argument", category: math, url: "https://plato.stanford.edu/entries/chinese-room", era: CE, year: 1980 }
 - { name: "Massachusetts Institute of Technology (MIT)'s Structure and Interpretation of Computer Programs (SICP) 6.001 Undergraduate", category: "science.computer", url: "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures", era: "CE", year: 1981 }
 - { name: "Leslie Lamport's Distributed Consensus", category: science.computer.consensus.distributed, url: "https://en.wikipedia.org/wiki/Consensus_(computer_science)", era: CE, year: 1982 }
+- { name: "Wikipedia's Memetics", category: evolution.cultural, url: "https://en.wikipedia.org/wiki/Memetics", era: CE, year: 1982 }
 - { name: "Cynthia Dwork and Moni Naor's Blockchain Consensus", category: science.computer.consensus.distributed, url: "https://www.cbcamerica.org/blockchain-insights/blockchain-consensus-algorithms-what-and-how", era: CE, year: 1992 }
 - { name: "Leslie Lamport's Paxos Consensus", category: science.computer.consensus.distributed, url: "https://en.wikipedia.org/wiki/Paxos_(computer_science)", era: CE, year: 1998, sublinks: [
     { name: "YouToube's Part 1", category: science.computer, url: "https://www.youtube.com/watch?v=tw3gsBms-f8", era: CE, year: 2017 },
     { name: "YouToube's Part 2", category: science.computer, url: "https://www.youtube.com/watch?v=8-Bc5Lqgx_c", era: CE, year: 2017 } ]}
-- { name: "Wikipedia's Memetics", category: evolution.cultural, url: "https://en.wikipedia.org/wiki/Memetics", era: CE, year: 1982 }
-- { name: "Leslie Lamport's Temporal Logic Analyzer (TLA+)", category: "science.computer", url: "https://lamport.azurewebsites.net/tla/tla.html", era: "CE", year: 1994, sublinks: [
-    { name: "Hillel Wayne's Tackling Concurrency Bugs with TLA+", category: science.computer.concurrency, url: "https://www.youtube.com/watch?v=_9B__0S21y8&t=554s", era: CE, year: 2019 } ]}
-- { name: "Satoshi Nakamoto's Proof of Work (PoW) Consensus", category: science.computer.consensus.distributed, url: "https://www.youtube.com/watch?v=3EUAcxhuoU4", era: CE, year: 2008 }
 - { name: "Dr. Jamisson Neruda's Interviews", category: "spirituality", url: "https://www.wingmakers.com/wp-content/uploads/2014/04/The-Complete-Neruda-Interviews-1-5.pdf", era: "CE", year: 1998, sublinks: [
     { name: "WingMaker's Fifth Interview", category: "spirituality", url: "https://www.wingmakers.com/wp-content/uploads/2014/04/The-Fifth-Interview-of-Dr.-Neruda1.pdf", era: "CE", year: 2014 },
     { name: "YouTube's Video", category: "spirituality", url: "https://www.youtube.com/watch?v=2iU_0mdCZac", era: "CE", year: 2016 } ]}
+- { name: "Leslie Lamport's Temporal Logic Analyzer (TLA+)", category: "science.computer", url: "https://lamport.azurewebsites.net/tla/tla.html", era: "CE", year: 1994, sublinks: [
+    { name: "Hillel Wayne's Tackling Concurrency Bugs with TLA+", category: science.computer.concurrency, url: "https://www.youtube.com/watch?v=_9B__0S21y8&t=554s", era: CE, year: 2019 } ]}
 - { name: "Urban's Dictionary", category: "reference.dictionary", url: "https://www.urbandictionary.com", era: "CE", year: 1999 }
+- { name: "Anders Hejlsberg's C#", category: "science.computer", url: "https://en.wikipedia.org/wiki/C_Sharp_syntax", era: "CE", year: 2000 }
+- { name: "Anders Hejlsberg's .NET", category: "science.computer", url: "https://en.wikipedia.org/wiki/.NET_Framework", era: "CE", year: 2002 }
 - { name: "Wikipedia's Pages", category: "reference.encyclopedia", url: "https://en.wikipedia.org/wiki/History_of_Wikipedia", era: "CE", year: 2001 }
+- { name: "Satoshi Nakamoto's Proof of Work (PoW) Consensus", category: science.computer.consensus.distributed, url: "https://www.youtube.com/watch?v=3EUAcxhuoU4", era: CE, year: 2008 }
 - { name: "Sal Khan's Academy", category: "education", url: "https://www.khanacademy.org", era: "CE", year: 2006 }
 - { name: "VideoLectures.net's - Everything, Everywhere, All at Once", category: "education", url: "http://videolectures.net", era: "CE", year: 2007 }
 - { name: "Stanford's Computer Science 229 - Machine Learning", category: "science.computer.ml", url: "https://see.stanford.edu/Course/CS229", era: "CE", year: 2008 }
@@ -55,8 +57,6 @@
 - { name: "Microsoft's Azure Cloud", category: "science.computer", url: "https://azure.com", era: "CE",year: 2010 }
 - { name: "Erik Meijer's Functional Programming Fundamentals with Haskell", category: "science.computer", url: "https://learn.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals", era: "CE", year: 2010 }
 - { name: "Don Syme's F#", category: "science.computer", url: "https://walkingcat.github.io/ch9-index/Series_C9-Lectures-Dr-Don-Syme-Introduction-to-F-.html", era: "CE", year: 2005 }
-- { name: "Anders Hejlsberg's .NET", category: "science.computer", url: "https://en.wikipedia.org/wiki/.NET_Framework", era: "CE", year: 2002 }
-- { name: "Anders Hejlsberg's C#", category: "science.computer", url: "https://en.wikipedia.org/wiki/C_Sharp_syntax", era: "CE", year: 2000 }
 - { name: "Douglas Hofstadter's Strange Loop", category: "paradox", url: "https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8", era: "CE", year: 2007 }
 - { name: "Georg Ferdinand Ludwig Philipp Cantor's Dangerous Knowledge", category: "health.mental", url: "https://rutracker.org", era: "CE", year: 2007, sublinks: [
     { name: "tpb's Part 1", category: "hacker", url: "https://tpb.party/torrent/4235405/BBC_Dangerous_Knowledge_1of2_2007_DVBC_XviD_MP3", era: "CE", year: 2007 },
