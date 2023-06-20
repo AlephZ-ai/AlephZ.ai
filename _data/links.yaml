@@ -11,8 +11,6 @@
 - { name: "Georg Friedrich Bernhard Riemann's Zeta Function", category: math, url: "https://mathworld.wolfram.com/RiemannZetaFunction.html", era: CE, year: 1859 }
 - { name: "John Stuart Mill's Utilitarianism", category: philosophy, url: "https://www.youtube.com/watch?v=03ESwNlyG8k", era: CE, year: 1863 }
 - { name: "Georg Ferdinand Ludwig Philipp Cantor's Set Theory", category: math, url: "https://en.wikipedia.org/wiki/Set_theory", era: CE, year: 1874 }
-- { name: "Max Planck's Quantum Mechanics", category: physics, url: "https://en.wikipedia.org/wiki/Max_Planck", era: CE, year: 1900 }
-- { name: "Georg Ferdinand Ludwig Philipp Cantor's Set Theory", category: "math", url: "https://en.wikipedia.org/wiki/Set_theory", era: "CE", year: 1874 }
 - { name: "Max Planck's Quantum Mechanics", category: "physics", url: "https://en.wikipedia.org/wiki/Max_Planck", era: "CE", year: 1900, sublinks: [
     { name: "Wondrum's Subscription", category: "physics", url: "https://www.wondrium.com/quantum-mechanics", era: "CE", year: 1900 },
     { name: "The Great Courses (TGC) (TTC)'s Course", category: "physics", url: "https://www.thegreatcourses.com/courses/quantum-mechanics-the-physics-of-the-microscopic-world", era: "CE", year: 1900 } ]}
@@ -32,13 +30,13 @@
 - { name: "René Girard's Things Hidden Since the Foundation of the World - How Memes Work", category: anthropology, url: "https://www.amazon.com/Things-Hidden-Since-Foundation-World-ebook/dp/B0C6TWDPMR", era: CE, year: 1978 }
 - { name: "David P. Reed Reed's G-Counter", category: science.computer, url: "https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type", era: CE, year: 1978 }
 - { name: "John Searle's Chinese Room Argument", category: math, url: "https://plato.stanford.edu/entries/chinese-room", era: CE, year: 1980 }
+- { name: "Massachusetts Institute of Technology (MIT)'s Structure and Interpretation of Computer Programs (SICP) 6.001 Undergraduate", category: "science.computer", url: "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures", era: "CE", year: 1981 }
 - { name: "Leslie Lamport's Distributed Consensus", category: science.computer.consensus.distributed, url: "https://en.wikipedia.org/wiki/Consensus_(computer_science)", era: CE, year: 1982 }
 - { name: "Cynthia Dwork and Moni Naor's Blockchain Consensus", category: science.computer.consensus.distributed, url: "https://www.cbcamerica.org/blockchain-insights/blockchain-consensus-algorithms-what-and-how", era: CE, year: 1992 }
 - { name: "Leslie Lamport's Paxos Consensus", category: science.computer.consensus.distributed, url: "https://en.wikipedia.org/wiki/Paxos_(computer_science)", era: CE, year: 1998, sublinks: [
     { name: "YouToube's Part 1", category: science.computer, url: "https://www.youtube.com/watch?v=tw3gsBms-f8", era: CE, year: 2017 },
     { name: "YouToube's Part 2", category: science.computer, url: "https://www.youtube.com/watch?v=8-Bc5Lqgx_c", era: CE, year: 2017 } ]}
 - { name: "Wikipedia's Memetics", category: evolution.cultural, url: "https://en.wikipedia.org/wiki/Memetics", era: CE, year: 1982 }
-- { name: "Massachusetts Institute of Technology (MIT)'s Structure and Interpretation of Computer Programs (SICP) 6.001 Undergraduate", category: "science.computer", url: "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures", era: "CE", year: 1981 }
 - { name: "Leslie Lamport's Temporal Logic Analyzer (TLA+)", category: "science.computer", url: "https://lamport.azurewebsites.net/tla/tla.html", era: "CE", year: 1994, sublinks: [
     { name: "Hillel Wayne's Tackling Concurrency Bugs with TLA+", category: science.computer.concurrency, url: "https://www.youtube.com/watch?v=_9B__0S21y8&t=554s", era: CE, year: 2019 } ]}
 - { name: "Satoshi Nakamoto's Proof of Work (PoW) Consensus", category: science.computer.consensus.distributed, url: "https://www.youtube.com/watch?v=3EUAcxhuoU4", era: CE, year: 2008 }
