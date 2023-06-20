@@ -92,8 +92,6 @@ layout: default
 - <span class=“science.computer”>[Nick Chapsas's dotnet Training](https://twitter.com/nickchapsas) (2019)</span>
   - <span class=“science.computer”>[YouTube's Videos](https://www.youtube.com/@nickchapsas)</span>
   - <span class=“science.computer”>[Dometrain's Courses](https://dometrain.com)</span>
-- [Microsoft's Semantic Kernel](https://github.com/microsoft/semantic-kernel) (2023)
-  - [Build's Video](https://youtu.be/EB90z-ugdl8)
 - [Jeff Hawkins's Computing Like the Brain](https://www.youtube.com/watch?v=VVbqlwCqWFc) (2017)
 - [Fast AI's Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra) (2017)
 - [Michael R. Jackson's Strange Loop Musical](https://strangeloopmusical.com) (2019)
@@ -104,4 +102,6 @@ layout: default
 - [Radek Osmulski's Meta Learning - Learn Machine Learning](https://rosmulski.gumroad.com/l/learn_machine_learning) (2021)
 - [Jeff Hawkins's A Thousand Brains: A New Theory of Intelligence](https://www.amazon.com/gp/product/1541675819) (2021)
 - [Kirsten Grind's Happy at Any Cost: The Revolutionary Vision and Fatal Quest of Zappos CEO Tony Hsieh](https://www.amazon.com/Happy-Any-Cost-Revolutionary-Vision/dp/B09GW9GDGC) (2021)
+- <span class=“science.computer.ai”>[Microsoft's Semantic Kernel](https://github.com/microsoft/semantic-kernel) (2023))</span>
+  - <span class=“science.computer.ai”>[Build's Video](https://youtu.be/EB90z-ugdl8)</span>
 - [Aaron Stainback](https://github.com/AceHack)['s AlephZ.ai](https://github.com/AlephZ-ai/AlephZ.ai) (2021)
