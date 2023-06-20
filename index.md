@@ -17,13 +17,13 @@ layout: default
 - <span class=“physics”>[Max Planck's Quantum Mechanics](https://en.wikipedia.org/wiki/Max_Planck) (1900)</span>
   - <span class=“physics”>[Wondrum's Subscription](https://www.wondrium.com/quantum-mechanics)</span>
   - <span class=“physics”>[The Great Courses (TGC) (TTC)'s Course](https://www.thegreatcourses.com/courses/quantum-mechanics-the-physics-of-the-microscopic-world)</span>
-- [Alonzo Church's Lambda (λ) Calculus](https://plato.stanford.edu/entries/church/supplementD.html) (1932)
-- [Alan Turing's Machine](https://plato.stanford.edu/entries/turing-machine) (1936)
-- [First Computer Bug was an Actual "Bug"](https://education.nationalgeographic.org/resource/worlds-first-computer-bug) (1947)
-- [Dr. Grace Hopper - World's first Coder and Bug finder](https://www.biography.com/scientist/grace-hopper) (1949)
-- [John von Neumann's Archiceture](https://en.wikipedia.org/wiki/Von_Neumann_architecture) (1945)
+- <span class=“math”>[Alonzo Church's Lambda (λ) Calculus](https://plato.stanford.edu/entries/church/supplementD.html) (1932)</span>
+- <span class=“math”>[Alan Turing's Machine](https://plato.stanford.edu/entries/turing-machine) (1936)</span>
+- <span class=“computers”>[First Computer Bug was an Actual "Bug"](https://education.nationalgeographic.org/resource/worlds-first-computer-bug) (1947)</span>
+- <span class=“computers”>[Dr. Grace Hopper - World's first Coder and Bug finder](https://www.biography.com/scientist/grace-hopper) (1949)</span>
+- <span class=“computers”>[John von Neumann's Archiceture](https://en.wikipedia.org/wiki/Von_Neumann_architecture) (1945)</span>
 - [Isaac Asimov's Foundation](https://www.amazon.com/Foundation-Isaac-Asimov-audiobook/dp/B003IF37TK) (1951)
-- [Nathaniel Rochester's Assembly](https://en.wikipedia.org/wiki/Assembly_language) (1954)
+- <span class=“computers”>[Nathaniel Rochester's Assembly](https://en.wikipedia.org/wiki/Assembly_language) (1954)</span>
 - [Madeleine L'Engle's A Wrinkle in Time](https://www.amazon.com/Wrinkle-Time-Archival-Author-Quintet/dp/B07JHTMZFX) (1962)
 - [Richard Feynman's Lectures](https://en.wikipedia.org/wiki/Richard_Feynman) (1964)
   - [YouTube's Playlist](https://www.youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2)
