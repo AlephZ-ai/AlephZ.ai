@@ -25,6 +25,7 @@ layout: default
 - [First Computer Bug was an Actual "Bug"](https://education.nationalgeographic.org/resource/worlds-first-computer-bug)
 - [Dr. Grace Hopper - World's first Coder and Bug finder](https://www.biography.com/scientist/grace-hopper)
 - [John von Neumann's Archiceture](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+- [Nathaniel Rochester's Assembly](https://en.wikipedia.org/wiki/Assembly_language)
 - [Bill Gates's Microsoft](https://microsoft.com)
 - [Microsoft's Azure Cloud](https://azure.com)
 - [Erik Meijer's Functional Programming Fundamentals with Haskell](https://learn.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals)
