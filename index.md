@@ -94,7 +94,7 @@ layout: default
   - [Mike Anderson's Beyond Blockchain: Convergent Consensus](https://thestrangeloop.com/2022/beyond-blockchain-convergent-consensus.html)
 - [Unknown's CRDTs (Conflict-Free Replicated Data Types)](https://www.youtube.com/watch?v=9xFfOhasiOE)
 - [Scott Vokes's Data Structures: The Code That Isn't There](https://www.infoq.com/presentations/Data-Structures)
-- [Category Theory For Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
+- [Bartosz Milewski's Category Theory For Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - [Category Theory: An Abstraction for Anything](https://www.youtube.com/watch?v=OLh7KKgyHoY)
 - Lang.NEXT
   - [2012](https://learn.microsoft.com/en-us/events/lang-next-2012)
