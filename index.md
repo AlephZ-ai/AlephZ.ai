@@ -12,13 +12,11 @@ layout: default
 - <span class=“dictionary”>[Merriam Webster's Dictionary](https://www.merriam-webster.com) (1828)</span>
 - <span class=“computers”>[John Babbage's Engine](https://www.computerhistory.org/babbage) (1837)</span>
 - <span class=“philosophy”>[John Stuart Mill's Utilitarianism](https://www.youtube.com/watch?v=03ESwNlyG8k) (1863)</span>
-- <span class=“math”>[Georg Ferdinand Ludwig Philipp Cantor's Set Theory](https://en.wikipedia.org/wiki/Set_theory) (1874)
-- <span class=“computers”>[Ada Lovelace - World's first Programmer](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer) (1843)
-<span class=“physics”>
-- [Max Planck's Quantum Mechanics](https://en.wikipedia.org/wiki/Max_Planck) (1900)
+- <span class=“math”>[Georg Ferdinand Ludwig Philipp Cantor's Set Theory](https://en.wikipedia.org/wiki/Set_theory) (1874)</span>
+- <span class=“computers”>[Ada Lovelace - World's first Programmer](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer) (1843)</span>
+- <span class=“physics”>[Max Planck's Quantum Mechanics](https://en.wikipedia.org/wiki/Max_Planck) (1900)</span>
   - [Wondrum's Subscription](https://www.wondrium.com/quantum-mechanics)
   - [The Great Courses (TGC) (TTC)'s Course](https://www.thegreatcourses.com/courses/quantum-mechanics-the-physics-of-the-microscopic-world)
-</span>
 - [Alonzo Church's Lambda (λ) Calculus](https://plato.stanford.edu/entries/church/supplementD.html) (1932)
 - [Alan Turing's Machine](https://plato.stanford.edu/entries/turing-machine) (1936)
 - [First Computer Bug was an Actual "Bug"](https://education.nationalgeographic.org/resource/worlds-first-computer-bug) (1947)
