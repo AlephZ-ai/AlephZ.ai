@@ -7,6 +7,8 @@ layout: default
 - [MIT Missing Computer Science Semester](https://missing.csail.mit.edu)
 - [Harvard Computer Science 50 - Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 - [MIT Structure and Interpretation of Computer Programs (SICP) 6.001 Undergraduate](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures)
+- [Eukleides's Geometry](https://www.bing.com/search?q=euclidean+geometry)
+- [Pythagoras of Samos's Theorem](https://resources.wolframcloud.com/FormulaRepository/resources/Pythagorean-Theorem)
 - [John Babbag's Engine](https://www.computerhistory.org/babbage)
 - [Ada Lovelace - World's first Programmer](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer)
 - [Alonzo Church's Lambda (λ) Calculus](https://plato.stanford.edu/entries/church/supplementD.html)
