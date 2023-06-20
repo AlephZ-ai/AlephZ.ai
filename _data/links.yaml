@@ -13,10 +13,10 @@
 - { name: "Georg Ferdinand Ludwig Philipp Cantor's Set Theory", category: math, url: "https://en.wikipedia.org/wiki/Set_theory", era: CE, year: 1874 }
 - { name: "Max Planck's Quantum Mechanics", category: physics, url: "https://en.wikipedia.org/wiki/Max_Planck", era: CE, year: 1900 }
 - { name: "Wondrum's Subscription", category: physics, url: "https://www.wondrium.com/quantum-mechanics", era: CE, year: 1900 }
-- { name: "The Great Courses (TGC) (TTC)'s Course", category: physics, url: "https://www.thegreatcourses.com/courses/quantum-mechanics-the-physics-of-the-microscopic-world", era: CE, year: 1900 }
-- { name: "Alonzo Church's Lambda (λ) Calculus", category: math, url: "https://plato.stanford.edu/entries/church/supplementD.html", era: CE, year: 1932 }
+  - { name: "The Great Courses (TGC) (TTC)'s Course", category: physics, url: "https://www.thegreatcourses.com/courses/quantum-mechanics-the-physics-of-the-microscopic-world", era: CE, year: 1900 }
+  - { name: "Alonzo Church's Lambda (λ) Calculus", category: math, url: "https://plato.stanford.edu/entries/church/supplementD.html", era: CE, year: 1932 }
 - { name: "Alan Turing's Machine", category: math, url: "https://plato.stanford.edu/entries/turing-machine", era: CE, year: 1936 }
-- { name: "John von Neumann's Archiceture", category: science.computer, url: "https://en.wikipedia.org/wiki/Von_Neumann_architecture", era: CE, year: 1945 }
+- { name: "John von Neumann's Architecture", category: science.computer, url: "https://en.wikipedia.org/wiki/Von_Neumann_architecture", era: CE, year: 1945 }
 - { name: "First Computer Bug was an Actual 'Bug'", category: science.computer, url: "https://education.nationalgeographic.org/resource/worlds-first-computer-bug", era: CE, year: 1947 }
 - { name: "Dr. Grace Hopper - World's first Coder and Bug finder", category: science.computer, url: "https://www.biography.com/scientist/grace-hopper", era: CE, year: 1949 }
 - { name: "Isaac Asimov's Foundation", category: fiction.science, url: "https://www.amazon.com/Foundation-Isaac-Asimov-audiobook/dp/B003JTHXN6", era: CE, year: 1951 }
