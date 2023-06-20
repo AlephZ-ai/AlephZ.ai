@@ -101,7 +101,7 @@ layout: default
 - <span class=“help.self”>[Luke Burgis's Wanting: The Power of Mimetic Desire in Everyday Life](https://www.amazon.com/gp/product/1250262488) (2021)</span>
 - <span class=“science.computer.ml”>[Radek Osmulski's Meta Learning - Learn Machine Learning](https://rosmulski.gumroad.com/l/learn_machine_learning) (2021)</span>
 - <span class=“science.computer.bioinformatics”>[Jeff Hawkins's A Thousand Brains: A New Theory of Intelligence](https://www.amazon.com/gp/product/1541675819) (2021)</span>
-- [Kirsten Grind's Happy at Any Cost: The Revolutionary Vision and Fatal Quest of Zappos CEO Tony Hsieh](https://www.amazon.com/Happy-Any-Cost-Revolutionary-Vision/dp/B09GW9GDGC) (2021)
+- <span class=“health.mental”>[Kirsten Grind's Happy at Any Cost: The Revolutionary Vision and Fatal Quest of Zappos CEO Tony Hsieh](https://www.amazon.com/Happy-Any-Cost-Revolutionary-Vision/dp/B09GW9GDGC) (2021)</span>
 - <span class=“science.computer.ai”>[Microsoft's Semantic Kernel](https://github.com/microsoft/semantic-kernel) (2023))</span>
   - <span class=“science.computer.ai”>[Build's Video](https://youtu.be/EB90z-ugdl8)</span>
-- [Aaron Stainback](https://github.com/AceHack)['s AlephZ.ai](https://github.com/AlephZ-ai/AlephZ.ai) (2021)
+- <span class="reference">[Aaron Stainback](https://github.com/AceHack)['s AlephZ.ai](https://github.com/AlephZ-ai/AlephZ.ai) (2021)</span>
