@@ -65,7 +65,7 @@ layout: default
 - <span class=“science.computer”>[Don Syme's F#](https://walkingcat.github.io/ch9-index/Series_C9-Lectures-Dr-Don-Syme-Introduction-to-F-.html) (2005)</span>
 - <span class=“science.computer”>[Anders Hejlsberg's .NET](https://en.wikipedia.org/wiki/.NET_Framework) (2002)</span>
 - <span class=“science.computer”>[Anders Hejlsberg's C#](https://en.wikipedia.org/wiki/C_Sharp_syntax) (2000)</span>
-- [Douglas Hofstadter's Strange Loop](https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8) (2007)
+- <span class="paradox">[Douglas Hofstadter's Strange Loop](https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8) (2007)</span>
 - [Georg Ferdinand Ludwig Philipp Cantor's Dangerous Knowledge](https://rutracker.org) (2007)
   - [tpb's Part 1](https://tpb.party/torrent/4235405/BBC_Dangerous_Knowledge_1of2_2007_DVBC_XviD_MP3)
   - [tpb's Part 2](https://tpb.party/torrent/4235408/BBC_Dangerous_Knowledge_2of2_2007_DVBC_XviD_MP3)
