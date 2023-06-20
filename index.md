@@ -81,17 +81,17 @@ layout: default
   - <span class=“science.computer”>[2012](https://learn.microsoft.com/en-us/events/lang-next-2012) (2012)</span>
   - <span class=“science.computer”>[2014](https://learn.microsoft.com/en-us/events/lang-next-2014) (2014)</span>
 - <span class=“science.computer”>[Scott Vokes's Data Structures: The Code That Isn't There](https://www.infoq.com/presentations/Data-Structures) (2013)</span>
-- <span class="theory.science.computer.network">[David P. Reed Reed's Law](https://en.wikipedia.org/wiki/Reed%27s_law) (2013)</span>
-- [Peter Thiel's Zero to One - Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B003JTHXN6) (2014)
-- [Bartosz Milewski's Category Theory For Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) (2014)
-- [Scott Hanselman's dotnet](https://dotnet.microsoft.com) (2014)
-- [David Fowler's ASP.NET Core](https:/asp.net) (2016)
-- [Fast AI's Courses](https://course.fast.ai) (2017)
-- [Mads Torgersen's C#](https://github.com/dotnet/csharplang) (2017)
+- <span class="science.theory.computer.network">[David P. Reed Reed's Law](https://en.wikipedia.org/wiki/Reed%27s_law) (2013)</span>
+- <span class=“business”>[Peter Thiel's Zero to One - Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B003JTHXN6) (2014)</span>
+- <span class=“math”>[Bartosz Milewski's Category Theory For Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) (2014)</span>
+- <span class=“science.computer”>[Scott Hanselman's dotnet](https://dotnet.microsoft.com) (2014)</span>
+- <span class=“science.computer”>[David Fowler's ASP.NET Core](https:/asp.net) (2016)</span>
+- <span class=“science.computer.ai”>[Fast AI's Courses](https://course.fast.ai) (2017)</span>
+- <span class=“science.computer”>[Mads Torgersen's C#](https://github.com/dotnet/csharplang) (2017)</span>
 - [Saifedean Ammous's The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/gp/product/1119473861) (2018)
-- [Nick Chapsas's dotnet Training](https://twitter.com/nickchapsas) (2019)
-  - [YouTube's Videos](https://www.youtube.com/@nickchapsas)
-  - [Dometrain's Courses](https://dometrain.com)
+- <span class=“science.computer”>[Nick Chapsas's dotnet Training](https://twitter.com/nickchapsas) (2019)</span>
+  - <span class=“science.computer”>[YouTube's Videos](https://www.youtube.com/@nickchapsas)</span>
+  - <span class=“science.computer”>[Dometrain's Courses](https://dometrain.com)</span>
 - [Microsoft's Semantic Kernel](https://github.com/microsoft/semantic-kernel) (2023)
   - [Build's Video](https://youtu.be/EB90z-ugdl8)
 - [Jeff Hawkins's Computing Like the Brain](https://www.youtube.com/watch?v=VVbqlwCqWFc) (2017)
