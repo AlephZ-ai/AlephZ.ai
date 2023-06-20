@@ -91,3 +91,13 @@
 - { name: "Jeff Hawkins's Computing Like the Brain", category: "science.computer.bioinformatics", url: "https://www.youtube.com/watch?v=VVbqlwCqWFc", era: "CE", year: 2017 }
 - { name: "Fast AI's Computational Linear Algebra for Coders", category: "science.computer.ml", url: "https://github.com/fastai/numerical-linear-algebra", era: "CE", year: 2017 }
 - { name: "Michael R. Jackson's Strange Loop Musical", category: "theatre.musical", url: "https://strangeloopmusical.com", era: "CE", year: 2019 }
+- { name: "Fast AI's Lesson 0", category: "science.computer.ai", url: "https://www.youtube.com/watch?v=gGxe2mN3kAg", era: "CE", year: 2019 }
+- { name: "Alissa Pajer's Category Theory: An Abstraction for Anything", category: "math", url: "https://www.youtube.com/watch?v=OLh7KKgyHoY", era: "CE", year: 2020 }
+- { name: "Azure's Quantum", category: "physics.quantum.computer", url: "https://learn.microsoft.com/en-us/azure/quantum/install-overview-qdk", era: "CE", year: 2020 }
+- { name: "Luke Burgis's Wanting: The Power of Mimetic Desire in Everyday Life", category: "help.self", url: "https://www.amazon.com/gp/product/1250262488", era: "CE", year: 2021 }
+- { name: "Radek Osmulski's Meta Learning - Learn Machine Learning", category: "science.computer.ml", url: "https://rosmulski.gumroad.com/l/learn_machine_learning", era: "CE", year: 2021 }
+- { name: "Jeff Hawkins's A Thousand Brains: A New Theory of Intelligence", category: "science.computer.bioinformatics", url: "https://www.amazon.com/gp/product/1541675819", era: "CE", year: 2021 }
+- { name: "Kirsten Grind's Happy at Any Cost: The Revolutionary Vision and Fatal Quest of Zappos CEO Tony Hsieh", category: "health.mental", url: "https://www.amazon.com/Happy-Any-Cost-Revolutionary-Vision/dp/B09GW9GDGC", era: "CE", year: 2021 }
+- { name: "Microsoft's Semantic Kernel", category: "science.computer.ai", url: "https://github.com/microsoft/semantic-kernel", era: "CE", year: 2023, sublinks: [
+    { name: "Build's Video", category: "science.computer.ai", url: "https://youtu.be/EB90z-ugdl8", era: "CE", year: 2023 } ]}
+- { name: "Aaron Stainback's AlephZ.ai", category: "reference", url: "https://github.com/AlephZ-ai/AlephZ.ai", era: "CE", year: 2023 }
