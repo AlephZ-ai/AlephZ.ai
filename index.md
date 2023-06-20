@@ -4,25 +4,6 @@ layout: default
 
 # AI for Prompt Engineers
 {% include links.html %}
-- <span class=“science.computer”>[Massachusetts Institute of Technology (MIT)'s Structure and Interpretation of Computer Programs (SICP) 6.001 Undergraduate](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures) (1981)</span>
-- <span class=“science.computer”>[Leslie Lamport's Temporal Logic Analyzer](https://lamport.azurewebsites.net/tla/tla.html) (1994)</span>
-- <span class="spirituality">[Dr. Jamisson Neruda's Interviews](https://www.wingmakers.com/wp-content/uploads/2014/04/The-Complete-Neruda-Interviews-1-5.pdf) (1998)</span>
-  - <span class="spirituality">[WingMaker's Fifth Interview](https://www.wingmakers.com/wp-content/uploads/2014/04/The-Fifth-Interview-of-Dr.-Neruda1.pdf) (2014)</span>
-  - <span class="spirituality">[YouTube's Video](https://www.youtube.com/watch?v=2iU_0mdCZac) (2016)</span>
-- <span class="reference.dictionary">[Urban's Dictionary](https://www.urbandictionary.com) (1999)</span>
-- <span class="reference.encyclopedia">[Wikipedia's Pages](https://en.wikipedia.org/wiki/History_of_Wikipedia) (2001)</span>
-- <span class="education">[Sal Khan's Academy](https://www.khanacademy.org) (2006)</span>
-- <span class="education">[VideoLectures.net's - Everything, Everywhere, All at Once](http://videolectures.net) (2007)</span>
-- <span class=“science.computer.ml”>[Stanford's Computer Science 229 - Machine Learning](https://see.stanford.edu/Course/CS229) (2008)</span>
-- <span class=“science.computer”>[Microsoft's Infer.NET](https://github.com/dotnet/infer) (2008)</span>
-- <span class="philosophy">[Andy Weir's The Egg](http://www.galactanet.com/oneoff/theegg_mod.html) (2009)</span>
-- <span class=“science.computer”>[MIT's Missing Computer Science Semester](https://missing.csail.mit.edu) (2019)</span>
-- <span class=“science.computer”>[Harvard's Computer Science 50 - Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-science.computer) (2007)</span>
-- <span class=“science.computer”>[Microsoft's Azure Cloud](https://azure.com) (2010)</span>
-- <span class=“science.computer”>[Erik Meijer's Functional Programming Fundamentals with Haskell](https://learn.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals) (2010)</span>
-- <span class=“science.computer”>[Don Syme's F#](https://walkingcat.github.io/ch9-index/Series_C9-Lectures-Dr-Don-Syme-Introduction-to-F-.html) (2005)</span>
-- <span class=“science.computer”>[Anders Hejlsberg's .NET](https://en.wikipedia.org/wiki/.NET_Framework) (2002)</span>
-- <span class=“science.computer”>[Anders Hejlsberg's C#](https://en.wikipedia.org/wiki/C_Sharp_syntax) (2000)</span>
 - <span class="paradox">[Douglas Hofstadter's Strange Loop](https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8) (2007)</span>
 - <span class="health.mental">[Georg Ferdinand Ludwig Philipp Cantor's Dangerous Knowledge](https://rutracker.org) (2007)</span>
   - <span class="hacker">[tpb's Part 1](https://tpb.party/torrent/4235405/BBC_Dangerous_Knowledge_1of2_2007_DVBC_XviD_MP3)</span>
