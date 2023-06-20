@@ -1,5 +1,12 @@
 <ul>
-{% for link in site.data.links %}
-  <li><a href="{{ link.url }}">{{ link.name }}</a></li>
+{% for item in site.data.links %}
+  <li>
+    <a href="{{ item.url }}">{{ item.name }}</a>
+    {% if item.era == "BCE" %}
+      (c. {{ item.year | divided_by:1000 | round | prepend: "," | prepend: "," }} BC)
+    {% else %}
+      ({{ item.year }})
+    {% endif %}
+  </li>
 {% endfor %}
 </ul>
