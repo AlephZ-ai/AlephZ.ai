@@ -52,7 +52,7 @@ layout: default
   - <span class="spirituality">[YouTube's Video](https://www.youtube.com/watch?v=2iU_0mdCZac) (2016)</span>
 - <span class="terminology">[Urban's Dictionary](https://www.urbandictionary.com) (1999)</span>
 - <span class="terminology">[Wikipedia's Pages](https://en.wikipedia.org/wiki/History_of_Wikipedia) (2001)</span>
-- [Sal Khan's Academy](https://www.khanacademy.org) (2006)
+- <span class="education">[Sal Khan's Academy](https://www.khanacademy.org) (2006)</span>
 - [VideoLectures.net's - Everything, Everywhere, All at Once](http://videolectures.net) (2007)
 - [Stanford's Computer Science 229 - Machine Learning](https://see.stanford.edu/Course/CS229) (2008)
 - [Microsoft's Infer.NET](https://github.com/dotnet/infer) (2008)
