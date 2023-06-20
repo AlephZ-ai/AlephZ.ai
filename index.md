@@ -9,7 +9,7 @@ layout: default
 - [Urban's Dictionary](https://www.urbandictionary.com)
 - [Wikipedia's Pages](https://en.wikipedia.org/wiki/History_of_Wikipedia)
 - [Sal Khan's Academy](https://www.khanacademy.org)
-- [The Egg](http://www.galactanet.com/oneoff/theegg_mod.html)
+- [Andy Weir's The Egg](http://www.galactanet.com/oneoff/theegg_mod.html)
 - [MIT's Missing Computer Science Semester](https://missing.csail.mit.edu)
 - [Harvard's Computer Science 50 - Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 - [MIT's Structure and Interpretation of Computer Programs (SICP) 6.001 Undergraduate](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures)
