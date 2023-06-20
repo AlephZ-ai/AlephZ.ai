@@ -11,8 +11,8 @@ layout: default
 - <span class="reference.encyclopedia">[Britannica's Encyclopedia](https://www.britannica.com) (1768)</span>
 - <span class=“math”>[Georg Friedrich Bernhard Riemann's Hypothesis](https://youtu.be/YTCE2SXguwU) (1859)</span>
 - <span class="math">[Georg Friedrich Bernhard Riemann's Zeta Function](https://mathworld.wolfram.com/RiemannZetaFunction.html)
+- <span class=“science.computer”>[Charles Babbage's Engine](https://www.computerhistory.org/babbage) (1822)</span>
 - <span class="reference.dictionary">[Merriam Webster's Dictionary](https://www.merriam-webster.com) (1828)</span>
-- <span class=“science.computer”>[John Babbage's Engine](https://www.computerhistory.org/babbage) (1837)</span>
 - <span class=“philosophy”>[John Stuart Mill's Utilitarianism](https://www.youtube.com/watch?v=03ESwNlyG8k) (1863)</span>
 - <span class=“math”>[Georg Ferdinand Ludwig Philipp Cantor's Set Theory](https://en.wikipedia.org/wiki/Set_theory) (1874)</span>
 - <span class=“science.computer”>[Ada Lovelace - World's first Programmer](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer) (1843)</span>
