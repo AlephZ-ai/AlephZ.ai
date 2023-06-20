@@ -45,8 +45,8 @@ layout: default
   - <span class=“computer-science”>[Sunny King and Scott Nadal's Proof of Stake (PoS) Consensus](https://www.youtube.com/watch?v=psKDXvXdr7k) (2012)</span>
   - <span class=“computer-science”>[Mike Anderson's Beyond Blockchain: Convergent Consensus](https://thestrangeloop.com/2022/beyond-blockchain-convergent-consensus.html) (2022)</span>
 - <span class="cultural-evolution">[Wikipedia's Memetics](https://en.wikipedia.org/wiki/Memetics) (1982)</span>
-- <span class=“computer-science”[Massachusetts Institute of Technology (MIT)'s Structure and Interpretation of Computer Programs (SICP) 6.001 Undergraduate](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures) (1981)</span>
-- <span class=“computer-science”[Leslie Lamport's Temporal Logic Analyzer](https://lamport.azurewebsites.net/tla/tla.html) (1994)</span>
+- <span class=“computer-science”>[Massachusetts Institute of Technology (MIT)'s Structure and Interpretation of Computer Programs (SICP) 6.001 Undergraduate](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures) (1981)</span>
+- <span class=“computer-science”>[Leslie Lamport's Temporal Logic Analyzer](https://lamport.azurewebsites.net/tla/tla.html) (1994)</span>
 - [Dr. Jamisson Neruda's Interviews](https://www.wingmakers.com/wp-content/uploads/2014/04/The-Complete-Neruda-Interviews-1-5.pdf) (1998)
   - [WingMaker's Fifth Interview](https://www.wingmakers.com/wp-content/uploads/2014/04/The-Fifth-Interview-of-Dr.-Neruda1.pdf) (2014)
   - [YouTube's Video](https://www.youtube.com/watch?v=2iU_0mdCZac) (2016)
