@@ -3,10 +3,7 @@ layout: default
 ---
 
 # AI for Prompt Engineers
-- <span class=“mythology” data-era=“BCE” data-year=2000000>[Prometheus's Fire](https://www.greekmyths-greekmythology.com/prometheus-fire-myth) (c. 2,000,000 BC)</span>
-- <span class=“math” data-era="BCE" data-year=500>[Pythagoras of Samos's Theorem](https://resources.wolframcloud.com/FormulaRepository/resources/Pythagorean-Theorem) (c. 500 BC)</span>
-- <span class=“math” data-era="BCE" data-year=300>[Eukleides's Geometry](https://www.bing.com/search?q=euclidean+geometry) (c. 300 BC)</span>
-- <span class=“math” data-era="CE" data-year=1665>[Isaac Newton's Calculus](https://www.thegreatcourses.com/courses/understanding-calculus-problems-solutions-and-tips) (1665)</span>
+{% include links.html %}
 - <span class=“physics” data-era="CE" data-year=1687>[Isaac Newton's Gravity](https://www.britannica.com/science/Newtons-law-of-gravitation) (1687)</span>
 - <span class=“reference.encyclopedia” data-era="CE" data-year=1768>[Britannica's Encyclopedia](https://www.britannica.com) (1768)</span>
 - <span class=“science.computer” data-era="CE" data-year=1822>[Charles Babbage's Engine](https://www.computerhistory.org/babbage) (1822)</span>
