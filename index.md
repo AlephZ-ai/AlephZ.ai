@@ -52,8 +52,8 @@ layout: default
 - <span class="spirituality">[Dr. Jamisson Neruda's Interviews](https://www.wingmakers.com/wp-content/uploads/2014/04/The-Complete-Neruda-Interviews-1-5.pdf) (1998)</span>
   - <span class="spirituality">[WingMaker's Fifth Interview](https://www.wingmakers.com/wp-content/uploads/2014/04/The-Fifth-Interview-of-Dr.-Neruda1.pdf) (2014)</span>
   - <span class="spirituality">[YouTube's Video](https://www.youtube.com/watch?v=2iU_0mdCZac) (2016)</span>
-- <span class="terminology">[Urban's Dictionary](https://www.urbandictionary.com) (1999)</span>
-- <span class="terminology">[Wikipedia's Pages](https://en.wikipedia.org/wiki/History_of_Wikipedia) (2001)</span>
+- <span class="reference">[Urban's Dictionary](https://www.urbandictionary.com) (1999)</span>
+- <span class="reference">[Wikipedia's Pages](https://en.wikipedia.org/wiki/History_of_Wikipedia) (2001)</span>
 - <span class="education">[Sal Khan's Academy](https://www.khanacademy.org) (2006)</span>
 - <span class="education">[VideoLectures.net's - Everything, Everywhere, All at Once](http://videolectures.net) (2007)</span>
 - <span class=“science.computer”>[Stanford's Computer Science 229 - Machine Learning](https://see.stanford.edu/Course/CS229) (2008)</span>
