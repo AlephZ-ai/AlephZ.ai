@@ -42,7 +42,7 @@ layout: default
 - [René Girard's Things Hidden Since the Foundation of the World - How Memes Work](https://www.amazon.com/Things-Hidden-Since-Foundation-World-ebook/dp/B0C6TWDPMR)
 - [Wikipedia's Memetics](https://en.wikipedia.org/wiki/Memetics)
 - [Peter Thiel's Zero to One - Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ)
-- [Wanting: The Power of Mimetic Desire in Everyday Life](https://www.amazon.com/gp/product/1250262488)
+- [Luke Burgis's Wanting: The Power of Mimetic Desire in Everyday Life](https://www.amazon.com/gp/product/1250262488)
 - [A Thousand Brains: A New Theory of Intelligence](https://www.amazon.com/gp/product/1541675819)
 - [Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose-ebook/dp/B003JTHXN6)
 - [Happy at Any Cost: The Revolutionary Vision and Fatal Quest of Zappos CEO Tony Hsieh](https://www.amazon.com/Happy-Any-Cost-Revolutionary-Vision/dp/B09GW9GDGC)
