@@ -81,7 +81,7 @@ layout: default
   - <span class=“science.computer”>[2012](https://learn.microsoft.com/en-us/events/lang-next-2012) (2012)</span>
   - <span class=“science.computer”>[2014](https://learn.microsoft.com/en-us/events/lang-next-2014) (2014)</span>
 - <span class=“science.computer”>[Scott Vokes's Data Structures: The Code That Isn't There](https://www.infoq.com/presentations/Data-Structures) (2013)</span>
-- [David P. Reed Reed's Law](https://en.wikipedia.org/wiki/Reed%27s_law) (2013)
+- <span class="theory.science.computer.network">[David P. Reed Reed's Law](https://en.wikipedia.org/wiki/Reed%27s_law) (2013)</span>
 - [Peter Thiel's Zero to One - Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B003JTHXN6) (2014)
 - [Bartosz Milewski's Category Theory For Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) (2014)
 - [Scott Hanselman's dotnet](https://dotnet.microsoft.com) (2014)
