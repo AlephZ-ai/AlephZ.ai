@@ -23,6 +23,7 @@ layout: default
 - [First Computer Bug was an Actual "Bug"](https://education.nationalgeographic.org/resource/worlds-first-computer-bug)
 - [Dr. Grace Hopper - World's first Coder and Bug finder](https://www.biography.com/scientist/grace-hopper)
 - [John von Neumann's Archiceture](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+- [Bill Gates's Microsoft](www.microsoft.com)
 - [Erik Meijer's Functional Programming Fundamentals with Haskell](https://learn.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals)
 - [Leslie Lamport's Temporal Logic Analyzer](https://lamport.azurewebsites.net/tla/tla.html)
 - Nick Chapsas's dotnet Training
