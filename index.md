@@ -3,7 +3,7 @@ layout: default
 ---
 
 # AI for Prompt Engineers
-- [Eukleides's Geometry](https://www.bing.com/search?q=euclidean+geometry) (c. 300 BC)
+- <span class=“math”>[Eukleides's Geometry](https://www.bing.com/search?q=euclidean+geometry) (c. 300 BC)</span>
 - [Pythagoras of Samos's Theorem](https://resources.wolframcloud.com/FormulaRepository/resources/Pythagorean-Theorem) (c. 500 BC)
 - [Isaac Newton's Calculus](https://www.thegreatcourses.com/courses/understanding-calculus-problems-solutions-and-tips) (1665)
 - [Isaac Newton's Gravity](https://www.britannica.com/science/Newtons-law-of-gravitation) (1687)
