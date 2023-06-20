@@ -50,7 +50,7 @@ layout: default
 - [Madeleine L'Engle's A Wrinkle in Time](https://www.amazon.com/Wrinkle-Time-Archival-Author-Quintet/dp/B07JHTMZFX)
 - [Isaac Asimov's Foundation](https://www.amazon.com/Foundation-Isaac-Asimov-audiobook/dp/B003IF37TK)
 - [Georg Ferdinand Ludwig Philipp Cantor's Set Theory](https://en.wikipedia.org/wiki/Set_theory)
-- [Georg Ferdinand Ludwig Philipp Cantor's Dangerous Knowledge](www.rutracker.org)
+- [Georg Ferdinand Ludwig Philipp Cantor's Dangerous Knowledge](rutracker.org)
   - [Part 1](https://tpb.party/torrent/4235405/BBC_Dangerous_Knowledge_1of2_2007_DVBC_XviD_MP3)
   - [Part 2](https://tpb.party/torrent/4235408/BBC_Dangerous_Knowledge_2of2_2007_DVBC_XviD_MP3)
   - [Private Garden](torrentleech.org)
