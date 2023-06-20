@@ -92,9 +92,9 @@ layout: default
 - <span class=“science.computer”>[Nick Chapsas's dotnet Training](https://twitter.com/nickchapsas) (2019)</span>
   - <span class=“science.computer”>[YouTube's Videos](https://www.youtube.com/@nickchapsas)</span>
   - <span class=“science.computer”>[Dometrain's Courses](https://dometrain.com)</span>
-- [Jeff Hawkins's Computing Like the Brain](https://www.youtube.com/watch?v=VVbqlwCqWFc) (2017)
+- <span class=“science.computer.bioinformatics”>[Jeff Hawkins's Computing Like the Brain](https://www.youtube.com/watch?v=VVbqlwCqWFc) (2017)</span>
 - <span class=“science.computer.ml”>[Fast AI's Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra) (2017)</span>
-- [Michael R. Jackson's Strange Loop Musical](https://strangeloopmusical.com) (2019)
+- <span class="theatre.musical">[Michael R. Jackson's Strange Loop Musical](https://strangeloopmusical.com) (2019)</span>
 - [Fast AI's Lesson 0](https://www.youtube.com/watch?v=gGxe2mN3kAg) (2019)
 - [Alissa Pajer's Category Theory: An Abstraction for Anything](https://www.youtube.com/watch?v=OLh7KKgyHoY) (2020)
 - [Azure's Quantum](https://learn.microsoft.com/en-us/azure/quantum/install-overview-qdk) (2020)
