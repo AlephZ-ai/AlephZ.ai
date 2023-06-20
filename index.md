@@ -8,10 +8,10 @@ layout: default
 - <span class=“math”>[Pythagoras of Samos's Theorem](https://resources.wolframcloud.com/FormulaRepository/resources/Pythagorean-Theorem) (c. 500 BC)</span>
 - <span class=“math”>[Isaac Newton's Calculus](https://www.thegreatcourses.com/courses/understanding-calculus-problems-solutions-and-tips) (1665)</span>
 - <span class=“physics”>[Isaac Newton's Gravity](https://www.britannica.com/science/Newtons-law-of-gravitation) (1687)</span>
-- <span class="terminology">[Britannica's Encyclopedia](https://www.britannica.com) (1768)</span>
+- <span class="reference">[Britannica's Encyclopedia](https://www.britannica.com) (1768)</span>
 - <span class=“math”>[Georg Friedrich Bernhard Riemann's Hypothesis](https://youtu.be/YTCE2SXguwU) (1859)</span>
 - <span class="math">[Georg Friedrich Bernhard Riemann's Zeta Function](https://mathworld.wolfram.com/RiemannZetaFunction.html)
-- <span class="terminology">[Merriam Webster's Dictionary](https://www.merriam-webster.com) (1828)</span>
+- <span class="reference">[Merriam Webster's Dictionary](https://www.merriam-webster.com) (1828)</span>
 - <span class=“science.computer”>[John Babbage's Engine](https://www.computerhistory.org/babbage) (1837)</span>
 - <span class=“philosophy”>[John Stuart Mill's Utilitarianism](https://www.youtube.com/watch?v=03ESwNlyG8k) (1863)</span>
 - <span class=“math”>[Georg Ferdinand Ludwig Philipp Cantor's Set Theory](https://en.wikipedia.org/wiki/Set_theory) (1874)</span>
@@ -81,7 +81,7 @@ layout: default
   - <span class=“science.computer”>[2012](https://learn.microsoft.com/en-us/events/lang-next-2012) (2012)</span>
   - <span class=“science.computer”>[2014](https://learn.microsoft.com/en-us/events/lang-next-2014) (2014)</span>
 - <span class=“science.computer”>[Scott Vokes's Data Structures: The Code That Isn't There](https://www.infoq.com/presentations/Data-Structures) (2013)</span>
-- <span class="science.theory.computer.network">[David P. Reed Reed's Law](https://en.wikipedia.org/wiki/Reed%27s_law) (2013)</span>
+- <span class="theory.science.computer.network">[David P. Reed Reed's Law](https://en.wikipedia.org/wiki/Reed%27s_law) (2013)</span>
 - <span class=“business”>[Peter Thiel's Zero to One - Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B003JTHXN6) (2014)</span>
 - <span class=“math”>[Bartosz Milewski's Category Theory For Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) (2014)</span>
 - <span class=“science.computer”>[Scott Hanselman's dotnet](https://dotnet.microsoft.com) (2014)</span>
