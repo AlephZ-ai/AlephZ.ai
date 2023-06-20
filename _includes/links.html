@@ -8,6 +8,7 @@
   });
 </script>
 
+<ul>
 {% for link in site.data.links %}
   <li>
     <a href="{{ link.url }}">{{ link.name }}</a>
@@ -18,3 +19,4 @@
     {% endif %}
   </li>
 {% endfor %}
+</ul>
