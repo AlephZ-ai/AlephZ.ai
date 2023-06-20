@@ -15,6 +15,9 @@ layout: default
 - [Dr. Grace Hopper - World's first Coder and Bug finder](https://www.biography.com/scientist/grace-hopper)
 - [John von Neumann's Archiceture](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
 - [Erik Meijer - Functional Programming Fundamentals with Haskell](https://learn.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals)
+- Nick Chapsas's Dotnet Training
+  - [YouTube]((https://www.youtube.com/@nickchapsas)
+  - [Dometrain](https://dometrain.com)
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
   - [Build](https://youtu.be/EB90z-ugdl8)
 - [Fast AI Lesson 0](https://www.youtube.com/watch?v=gGxe2mN3kAg)
