@@ -4,20 +4,6 @@ layout: default
 
 # AI for Prompt Engineers
 {% include links.html %}
-- <span class="paradox">[Douglas Hofstadter's Strange Loop](https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8) (2007)</span>
-- <span class="health.mental">[Georg Ferdinand Ludwig Philipp Cantor's Dangerous Knowledge](https://rutracker.org) (2007)</span>
-  - <span class="hacker">[tpb's Part 1](https://tpb.party/torrent/4235405/BBC_Dangerous_Knowledge_1of2_2007_DVBC_XviD_MP3)</span>
-  - <span class="hacker">[tpb's Part 2](https://tpb.party/torrent/4235408/BBC_Dangerous_Knowledge_2of2_2007_DVBC_XviD_MP3)</span>
-  - <span class="hacker">[My Private Garden](torrentleech.org) (?)</span>
-- <span class="philosophy">[TGC's Philosophy of Mind, Brains, Consciousness, and Thinking Machines](https://www.thegreatcourses.com/courses/philosophy-of-mind-brains-consciousness-and-thinking-machines) (2008)</span>
-- <span class="conference.science.computer">[Alex Miller's Strange Loop Conference](https://thestrangeloop.com) (2009)</span>
-  - <span class="conference.science.computer">[YouTube's Videos](https://www.youtube.com/@StrangeLoopConf)</span>
-- <span class=“science.computer”>[Erik Meijer and Brian Beckman's Inside the .NET Reactive Framework (Rx)](https://www.youtube.com/watch?v=looJcaeboBY) (2009)</span>
-- <span class=“business”>[Tony Hsieh's Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose-ebook/dp/B003JTHXN6) (2010)</span>
-- <span class=“science.computer”>[Marc Shapiro, Nuno Preguiça, Carlos Baquero and Marek Zawirski's CRDTs (Conflict-Free Replicated Data Types)](https://www.youtube.com/watch?v=9xFfOhasiOE) (2011)</span>
-- <span class=“science.computer”>[Microsoft's Lang.NEXT](https://learn.microsoft.com/en-us/events/lang-next-2012) (2012)</span>
-  - <span class=“science.computer”>[2012](https://learn.microsoft.com/en-us/events/lang-next-2012) (2012)</span>
-  - <span class=“science.computer”>[2014](https://learn.microsoft.com/en-us/events/lang-next-2014) (2014)</span>
 - <span class=“science.computer”>[Scott Vokes's Data Structures: The Code That Isn't There](https://www.infoq.com/presentations/Data-Structures) (2013)</span>
 - <span class="theory.science.computer.network">[David P. Reed Reed's Law](https://en.wikipedia.org/wiki/Reed%27s_law) (2013)</span>
 - <span class=“business”>[Peter Thiel's Zero to One - Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B003JTHXN6) (2014)</span>
