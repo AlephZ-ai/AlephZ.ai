@@ -33,13 +33,13 @@
 - { name: "David P. Reed Reed's G-Counter", category: science.computer, url: "https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type", era: CE, year: 1978 }
 - { name: "John Searle's Chinese Room Argument", category: math, url: "https://plato.stanford.edu/entries/chinese-room", era: CE, year: 1980 }
 - { name: "Leslie Lamport's Distributed Consensus", category: science.computer, url: "https://en.wikipedia.org/wiki/Consensus_(computer_science)", era: CE, year: 1982, sublinks: [
-    { name: "Hillel Wayne's Tackling Concurrency Bugs with TLA+", url: "https://www.youtube.com/watch?v=_9B__0S21y8&t=554s", era: CE, year: 2019 },
-    { name: "Leslie Lamport's Paxos Consensus", url: "https://en.wikipedia.org/wiki/Paxos_(computer_science)", era: CE, year: 1998, sublinks: [
-        { name: "YouToube's Part 1", url: "https://www.youtube.com/watch?v=tw3gsBms-f8", era: CE, year: 2017 },
-        { name: "YouToube's Part 2", url: "https://www.youtube.com/watch?v=8-Bc5Lqgx_c", era: CE, year: 2017 } ]},
-    { name: "Stanford's Raft Consensus", url: "https://www.youtube.com/watch?v=ro2fU8_mr2w", era: CE, year: 2014 },
-    { name: "Cynthia Dwork and Moni Naor's Blockchain Consensus", url: "https://www.cbcamerica.org/blockchain-insights/blockchain-consensus-algorithms-what-and-how", era: CE, year: 1992 },
-    { name: "Satoshi Nakamoto's Proof of Work (PoW) Consensus", url: "https://www.youtube.com/watch?v=3EUAcxhuoU4", era: CE, year: 2008 },
-    { name: "Sunny King and Scott Nadal's Proof of Stake (PoS) Consensus", url: "https://www.youtube.com/watch?v=psKDXvXdr7k", era: CE, year: 2012 },
-    { name: "Mike Anderson's Beyond Blockchain: Convergent Consensus", url: "https://thestrangeloop.com/2022/beyond-blockchain-convergent-consensus.html", era: CE, year: 2022 } ]}
+    { name: "Hillel Wayne's Tackling Concurrency Bugs with TLA+", category: science.computer, url: "https://www.youtube.com/watch?v=_9B__0S21y8&t=554s", era: CE, year: 2019 },
+    { name: "Leslie Lamport's Paxos Consensus", category: science.computer, url: "https://en.wikipedia.org/wiki/Paxos_(computer_science)", era: CE, year: 1998, sublinks: [
+        { name: "YouToube's Part 1", category: science.computer, url: "https://www.youtube.com/watch?v=tw3gsBms-f8", era: CE, year: 2017 },
+        { name: "YouToube's Part 2", category: science.computer, url: "https://www.youtube.com/watch?v=8-Bc5Lqgx_c", era: CE, year: 2017 } ]},
+    { name: "Stanford's Raft Consensus", category: science.computer, url: "https://www.youtube.com/watch?v=ro2fU8_mr2w", era: CE, year: 2014 },
+    { name: "Cynthia Dwork and Moni Naor's Blockchain Consensus", category: science.computer, url: "https://www.cbcamerica.org/blockchain-insights/blockchain-consensus-algorithms-what-and-how", era: CE, year: 1992 },
+    { name: "Satoshi Nakamoto's Proof of Work (PoW) Consensus", category: science.computer, url: "https://www.youtube.com/watch?v=3EUAcxhuoU4", era: CE, year: 2008 },
+    { name: "Sunny King and Scott Nadal's Proof of Stake (PoS) Consensus", category: science.computer, url: "https://www.youtube.com/watch?v=psKDXvXdr7k", era: CE, year: 2012 },
+    { name: "Mike Anderson's Beyond Blockchain: Convergent Consensus", category: science.computer, url: "https://thestrangeloop.com/2022/beyond-blockchain-convergent-consensus.html", era: CE, year: 2022 } ]}
 - { name: "Wikipedia's Memetics", category: evolution.cultural, url: "https://en.wikipedia.org/wiki/Memetics", era: CE, year: 1982 }
