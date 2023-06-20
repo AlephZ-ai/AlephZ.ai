@@ -9,28 +9,28 @@ layout: default
 - <span class=“math” data-era="CE" data-year=1665>[Isaac Newton's Calculus](https://www.thegreatcourses.com/courses/understanding-calculus-problems-solutions-and-tips) (1665)</span>
 - <span class=“physics” data-era="CE" data-year=1687>[Isaac Newton's Gravity](https://www.britannica.com/science/Newtons-law-of-gravitation) (1687)</span>
 - <span class=“reference.encyclopedia” data-era="CE" data-year=1768>[Britannica's Encyclopedia](https://www.britannica.com) (1768)</span>
+- <span class=“science.computer” data-era="CE" data-year=1822>[Charles Babbage's Engine](https://www.computerhistory.org/babbage) (1822)</span>
+- <span class=“reference.dictionary” data-era="CE" data-year=1828>[Merriam Webster's Dictionary](https://www.merriam-webster.com) (1828)</span>
+- <span class=“science.computer” data-era="CE" data-year=1843>[Ada Lovelace - World's first Programmer](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer) (1843)</span>
 - <span class=“math” data-era="CE" data-year=1859>[Georg Friedrich Bernhard Riemann's Hypothesis](https://youtu.be/YTCE2SXguwU) (1859)</span>
 - <span class=“math” data-era="CE" data-year=1859>[Georg Friedrich Bernhard Riemann's Zeta Function](https://mathworld.wolfram.com/RiemannZetaFunction.html) (1859)</span>
-- <span class=“science.computer”>[Charles Babbage's Engine](https://www.computerhistory.org/babbage) (1822)</span>
-- <span class="reference.dictionary">[Merriam Webster's Dictionary](https://www.merriam-webster.com) (1828)</span>
-- <span class=“philosophy”>[John Stuart Mill's Utilitarianism](https://www.youtube.com/watch?v=03ESwNlyG8k) (1863)</span>
-- <span class=“math”>[Georg Ferdinand Ludwig Philipp Cantor's Set Theory](https://en.wikipedia.org/wiki/Set_theory) (1874)</span>
-- <span class=“science.computer”>[Ada Lovelace - World's first Programmer](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer) (1843)</span>
-- <span class=“physics”>[Max Planck's Quantum Mechanics](https://en.wikipedia.org/wiki/Max_Planck) (1900)</span>
-  - <span class=“physics”>[Wondrum's Subscription](https://www.wondrium.com/quantum-mechanics)</span>
-  - <span class=“physics”>[The Great Courses (TGC) (TTC)'s Course](https://www.thegreatcourses.com/courses/quantum-mechanics-the-physics-of-the-microscopic-world)</span>
-- <span class=“math”>[Alonzo Church's Lambda (λ) Calculus](https://plato.stanford.edu/entries/church/supplementD.html) (1932)</span>
-- <span class=“math”>[Alan Turing's Machine](https://plato.stanford.edu/entries/turing-machine) (1936)</span>
-- <span class=“science.computer”>[First Computer Bug was an Actual "Bug"](https://education.nationalgeographic.org/resource/worlds-first-computer-bug) (1947)</span>
-- <span class=“science.computer”>[Dr. Grace Hopper - World's first Coder and Bug finder](https://www.biography.com/scientist/grace-hopper) (1949)</span>
-- <span class=“science.computer”>[John von Neumann's Archiceture](https://en.wikipedia.org/wiki/Von_Neumann_architecture) (1945)</span>
-- <span class=“fiction.science”>[Isaac Asimov's Foundation](https://www.amazon.com/Foundation-Isaac-Asimov-audiobook/dp/B003IF37TK) (1951)</span>
-- <span class=“science.computer”>[Nathaniel Rochester's Assembly](https://en.wikipedia.org/wiki/Assembly_language) (1954)</span>
-- <span class=“fiction.science”>[Madeleine L'Engle's A Wrinkle in Time](https://www.amazon.com/Wrinkle-Time-Archival-Author-Quintet/dp/B07JHTMZFX) (1962)</span>
-- <span class=“physics”>[Richard Feynman's Lectures](https://en.wikipedia.org/wiki/Richard_Feynman) (1964)</span>
-  - <span class=“physics”>[YouTube's Playlist](https://www.youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2)</span>
-  - <span class=“physics”>[YouTube's The Character of Physical Law (1964)](https://www.youtube.com/watch?v=kEx-gRfuhhk)</span>
-  - <span class=“physics”>[CalTech's The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)</span>
+- <span class=“philosophy” data-era="CE" data-year=1863>[John Stuart Mill's Utilitarianism](https://www.youtube.com/watch?v=03ESwNlyG8k) (1863)</span>
+- <span class=“math” data-era="CE" data-year=1874>[Georg Ferdinand Ludwig Philipp Cantor's Set Theory](https://en.wikipedia.org/wiki/Set_theory) (1874)</span>
+- <span class=“physics” data-era="CE" data-year=1900>[Max Planck's Quantum Mechanics](https://en.wikipedia.org/wiki/Max_Planck) (1900)</span>
+  - <span class=“physics” data-era="CE" data-year=1900>[Wondrum's Subscription](https://www.wondrium.com/quantum-mechanics)</span>
+  - <span class=“physics” data-era="CE" data-year=1900>[The Great Courses (TGC) (TTC)'s Course](https://www.thegreatcourses.com/courses/quantum-mechanics-the-physics-of-the-microscopic-world)</span>
+- <span class=“math” data-era="CE" data-year=1932>[Alonzo Church's Lambda (λ) Calculus](https://plato.stanford.edu/entries/church/supplementD.html) (1932)</span>
+- <span class=“math” data-era="CE" data-year=1936>[Alan Turing's Machine](https://plato.stanford.edu/entries/turing-machine) (1936)</span>
+- <span class=“science.computer” data-era="CE" data-year=1945>[John von Neumann's Archiceture](https://en.wikipedia.org/wiki/Von_Neumann_architecture) (1945)</span>
+- <span class=“science.computer” data-era="CE" data-year=1947>[First Computer Bug was an Actual "Bug"](https://education.nationalgeographic.org/resource/worlds-first-computer-bug) (1947)</span>
+- <span class=“science.computer” data-era="CE" data-year=1949>[Dr. Grace Hopper - World's first Coder and Bug finder](https://www.biography.com/scientist/grace-hopper) (1949)</span>
+- <span class=“fiction.science” data-era="CE" data-year=1951>[Isaac Asimov's Foundation](https://www.amazon.com/Foundation-Isaac-Asimov-audiobook/dp/B003IF37TK) (1951)</span>
+- <span class=“science.computer” data-era="CE" data-year=1954>[Nathaniel Rochester's Assembly](https://en.wikipedia.org/wiki/Assembly_language) (1954)</span>
+- <span class=“fiction.science” data-era="CE" data-year=1962>[Madeleine L'Engle's A Wrinkle in Time](https://www.amazon.com/Wrinkle-Time-Archival-Author-Quintet/dp/B07JHTMZFX) (1962)</span>
+- <span class=“physics” data-era="CE" data-year=1964>[Richard Feynman's Lectures](https://en.wikipedia.org/wiki/Richard_Feynman) (1964)</span>
+  - <span class=“physics” data-era="CE" data-year=1964>[YouTube's Playlist](https://www.youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2)</span>
+  - <span class=“physics” data-era="CE" data-year=1964>[YouTube's The Character of Physical Law (1964)](https://www.youtube.com/watch?v=kEx-gRfuhhk)</span>
+  - <span class=“physics” data-era="CE" data-year=1964>[CalTech's The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)</span>
 - <span class=“science.computer”>[Bill Gates's Microsoft](https://microsoft.com) (1975)</span>
 - <span class="science.popular">[Richard Dawkins's The Selfish Gene - What are Memes](https://www.amazon.com/Extended-Selfish-Gene-Richard-Dawkins-dp-0198788789/dp/0198788789) (1976)</span>
 - <span class="anthropology">[René Girard's Things Hidden Since the Foundation of the World - How Memes Work](https://www.amazon.com/Things-Hidden-Since-Foundation-World-ebook/dp/B0C6TWDPMR) (1978)</span>
