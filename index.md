@@ -9,6 +9,7 @@ layout: default
 - [MIT's Structure and Interpretation of Computer Programs (SICP) 6.001 Undergraduate](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures)
 - [Eukleides's Geometry](https://www.bing.com/search?q=euclidean+geometry)
 - [Pythagoras of Samos's Theorem](https://resources.wolframcloud.com/FormulaRepository/resources/Pythagorean-Theorem)
+- [isaac Newton's Calculus](https://www.thegreatcourses.com/courses/understanding-calculus-problems-solutions-and-tips)
 - [Georg Friedrich Bernhard Riemann's Hypothesis](https://youtu.be/YTCE2SXguwU)
 - [John Babbage's Engine](https://www.computerhistory.org/babbage)
 - [Ada Lovelace - World's first Programmer](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer)
