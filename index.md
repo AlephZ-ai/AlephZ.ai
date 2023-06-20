@@ -4,14 +4,14 @@ layout: default
 
 # AI for Prompt Engineers
 - <span class=“math”>[Eukleides's Geometry](https://www.bing.com/search?q=euclidean+geometry) (c. 300 BC)</span>
-- [Pythagoras of Samos's Theorem](https://resources.wolframcloud.com/FormulaRepository/resources/Pythagorean-Theorem) (c. 500 BC)
-- [Isaac Newton's Calculus](https://www.thegreatcourses.com/courses/understanding-calculus-problems-solutions-and-tips) (1665)
-- [Isaac Newton's Gravity](https://www.britannica.com/science/Newtons-law-of-gravitation) (1687)
-- [Britannica's Encyclopedia](https://www.britannica.com) (1768)
-- [Georg Friedrich Bernhard Riemann's Hypothesis](https://youtu.be/YTCE2SXguwU) (1859)
-- [Merriam Webster's Dictionary](https://www.merriam-webster.com) (1828)
-- [John Babbage's Engine](https://www.computerhistory.org/babbage) (1837)
-- [John Stuart Mill's Utilitarianism](https://www.youtube.com/watch?v=03ESwNlyG8k) (1863)
+- <span class=“math”>[Pythagoras of Samos's Theorem](https://resources.wolframcloud.com/FormulaRepository/resources/Pythagorean-Theorem) (c. 500 BC)</span>
+- <span class=“math”>[Isaac Newton's Calculus](https://www.thegreatcourses.com/courses/understanding-calculus-problems-solutions-and-tips) (1665)</span>
+- <span class=“physics”>[Isaac Newton's Gravity](https://www.britannica.com/science/Newtons-law-of-gravitation) (1687)</span>
+- <span class=“encyclopedia”>[Britannica's Encyclopedia](https://www.britannica.com) (1768)</span>
+- <span class=“math”>[Georg Friedrich Bernhard Riemann's Hypothesis](https://youtu.be/YTCE2SXguwU) (1859)</span>
+- <span class=“dictionary”>[Merriam Webster's Dictionary](https://www.merriam-webster.com) (1828)</span>
+- <span class=“computers”>[John Babbage's Engine](https://www.computerhistory.org/babbage) (1837)</span>
+- <span class=“philosophy”>[John Stuart Mill's Utilitarianism](https://www.youtube.com/watch?v=03ESwNlyG8k) (1863)</span>
 - [Georg Ferdinand Ludwig Philipp Cantor's Set Theory](https://en.wikipedia.org/wiki/Set_theory) (1874)
 - [Ada Lovelace - World's first Programmer](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer) (1843)
 - [Max Planck's Quantum Mechanics](https://en.wikipedia.org/wiki/Max_Planck) (1900)
