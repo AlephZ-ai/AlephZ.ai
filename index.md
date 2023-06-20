@@ -29,8 +29,8 @@ layout: default
   - <span class=“physics”>[YouTube's Playlist](https://www.youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2)</span>
   - <span class=“physics”>[YouTube's The Character of Physical Law (1964)](https://www.youtube.com/watch?v=kEx-gRfuhhk)</span>
   - <span class=“physics”>[CalTech's The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)</span>
-- [Bill Gates's Microsoft](https://microsoft.com) (1975)
-- [Richard Dawkins's The Selfish Gene - What are Memes](https://www.amazon.com/Extended-Selfish-Gene-Richard-Dawkins-dp-0198788789/dp/0198788789) (1976)
+- <span class=“computers”>[Bill Gates's Microsoft](https://microsoft.com) (1975)</span>
+- <span class="popular-science">[Richard Dawkins's The Selfish Gene - What are Memes](https://www.amazon.com/Extended-Selfish-Gene-Richard-Dawkins-dp-0198788789/dp/0198788789) (1976)</span>
 - [René Girard's Things Hidden Since the Foundation of the World - How Memes Work](https://www.amazon.com/Things-Hidden-Since-Foundation-World-ebook/dp/B0C6TWDPMR) (1978)
 - [David P. Reed Reed's G-Counter](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) (1978)
 - [John Searle's Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room) (1980)
