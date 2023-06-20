@@ -3,15 +3,15 @@ layout: default
 ---
 
 # AI for Prompt Engineers
-- <span class=“myth”>[Prometheus's Fire](https://www.greekmyths-greekmythology.com/prometheus-fire-myth) (c. 2,000,000 BC)</span>
+- <span class=“mythology”>[Prometheus's Fire](https://www.greekmyths-greekmythology.com/prometheus-fire-myth) (c. 2,000,000 BC)</span>
 - <span class=“math”>[Eukleides's Geometry](https://www.bing.com/search?q=euclidean+geometry) (c. 300 BC)</span>
 - <span class=“math”>[Pythagoras of Samos's Theorem](https://resources.wolframcloud.com/FormulaRepository/resources/Pythagorean-Theorem) (c. 500 BC)</span>
 - <span class=“math”>[Isaac Newton's Calculus](https://www.thegreatcourses.com/courses/understanding-calculus-problems-solutions-and-tips) (1665)</span>
 - <span class=“physics”>[Isaac Newton's Gravity](https://www.britannica.com/science/Newtons-law-of-gravitation) (1687)</span>
-- <span class="reference">[Britannica's Encyclopedia](https://www.britannica.com) (1768)</span>
+- <span class="reference.encyclopedia">[Britannica's Encyclopedia](https://www.britannica.com) (1768)</span>
 - <span class=“math”>[Georg Friedrich Bernhard Riemann's Hypothesis](https://youtu.be/YTCE2SXguwU) (1859)</span>
 - <span class="math">[Georg Friedrich Bernhard Riemann's Zeta Function](https://mathworld.wolfram.com/RiemannZetaFunction.html)
-- <span class="reference">[Merriam Webster's Dictionary](https://www.merriam-webster.com) (1828)</span>
+- <span class="reference.dictionary">[Merriam Webster's Dictionary](https://www.merriam-webster.com) (1828)</span>
 - <span class=“science.computer”>[John Babbage's Engine](https://www.computerhistory.org/babbage) (1837)</span>
 - <span class=“philosophy”>[John Stuart Mill's Utilitarianism](https://www.youtube.com/watch?v=03ESwNlyG8k) (1863)</span>
 - <span class=“math”>[Georg Ferdinand Ludwig Philipp Cantor's Set Theory](https://en.wikipedia.org/wiki/Set_theory) (1874)</span>
@@ -52,8 +52,8 @@ layout: default
 - <span class="spirituality">[Dr. Jamisson Neruda's Interviews](https://www.wingmakers.com/wp-content/uploads/2014/04/The-Complete-Neruda-Interviews-1-5.pdf) (1998)</span>
   - <span class="spirituality">[WingMaker's Fifth Interview](https://www.wingmakers.com/wp-content/uploads/2014/04/The-Fifth-Interview-of-Dr.-Neruda1.pdf) (2014)</span>
   - <span class="spirituality">[YouTube's Video](https://www.youtube.com/watch?v=2iU_0mdCZac) (2016)</span>
-- <span class="reference">[Urban's Dictionary](https://www.urbandictionary.com) (1999)</span>
-- <span class="reference">[Wikipedia's Pages](https://en.wikipedia.org/wiki/History_of_Wikipedia) (2001)</span>
+- <span class="reference.dictionary">[Urban's Dictionary](https://www.urbandictionary.com) (1999)</span>
+- <span class="reference.encyclopedia">[Wikipedia's Pages](https://en.wikipedia.org/wiki/History_of_Wikipedia) (2001)</span>
 - <span class="education">[Sal Khan's Academy](https://www.khanacademy.org) (2006)</span>
 - <span class="education">[VideoLectures.net's - Everything, Everywhere, All at Once](http://videolectures.net) (2007)</span>
 - <span class=“science.computer.ml”>[Stanford's Computer Science 229 - Machine Learning](https://see.stanford.edu/Course/CS229) (2008)</span>
