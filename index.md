@@ -58,19 +58,19 @@ layout: default
   - [Private Garden](torrentleech.org)
 - Max Planck's Quantum Mechanics
   - [Wondrum's Subscription](https://www.wondrium.com/quantum-mechanics)
-  - [The Great Courses (TGC) (TTC) Course](https://www.thegreatcourses.com/courses/quantum-mechanics-the-physics-of-the-microscopic-world)
+  - [The Great Courses (TGC) (TTC)'s Course](https://www.thegreatcourses.com/courses/quantum-mechanics-the-physics-of-the-microscopic-world)
 - Richard Feynman's Lectures
   - [YouTube's Playlist](https://www.youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2)
   - [YouTube's The Character of Physical Law (1964)](https://www.youtube.com/watch?v=kEx-gRfuhhk)
   - [CalTech's The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)
-- [Azure Quantum](https://learn.microsoft.com/en-us/azure/quantum/install-overview-qdk)
-- The Fifth Interview of Dr. Jamisson Neruda
-  - [PDF](https://www.wingmakers.com/wp-content/uploads/2014/04/The-Fifth-Interview-of-Dr.-Neruda1.pdf)
-  - [Video](https://www.youtube.com/watch?v=2iU_0mdCZac)
-- [Stanford - John Searle - The Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room)
-- [Philosophy of Mind, Brains, Consciousness, and Thinking Machines](https://www.thegreatcourses.com/courses/philosophy-of-mind-brains-consciousness-and-thinking-machines)
-- [Utilitarianism](https://www.youtube.com/watch?v=03ESwNlyG8k)
-- [Expert to Expert: Brian Beckman and Erik Meijer - Inside the .NET Reactive Framework (Rx)](https://www.youtube.com/watch?v=looJcaeboBY)
+- [Azure's Quantum](https://learn.microsoft.com/en-us/azure/quantum/install-overview-qdk)
+- [Dr. Jamisson Neruda's Interviews](https://www.wingmakers.com/wp-content/uploads/2014/04/The-Complete-Neruda-Interviews-1-5.pdf)
+  - [WingMaker's Fifth Interview](https://www.wingmakers.com/wp-content/uploads/2014/04/The-Fifth-Interview-of-Dr.-Neruda1.pdf)
+  - [YouTube's Video](https://www.youtube.com/watch?v=2iU_0mdCZac)
+- [John Searle's Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room)
+- [The Great Courses (TGC) (TTC)'s Philosophy of Mind, Brains, Consciousness, and Thinking Machines](https://www.thegreatcourses.com/courses/philosophy-of-mind-brains-consciousness-and-thinking-machines)
+- [John Stuart Mill's Utilitarianism](https://www.youtube.com/watch?v=03ESwNlyG8k)
+- [Brian Beckman and Erik Meijer's Inside the .NET Reactive Framework (Rx)](https://www.youtube.com/watch?v=looJcaeboBY)
 - Strange Loop
   - [Conference](https://thestrangeloop.com)
   - [Videos](https://www.youtube.com/@StrangeLoopConf)
