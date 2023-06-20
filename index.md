@@ -75,12 +75,12 @@ layout: default
 - <span class="conference.science.computer">[Alex Miller's Strange Loop Conference](https://thestrangeloop.com) (2009)</span>
   - <span class="conference.science.computer">[YouTube's Videos](https://www.youtube.com/@StrangeLoopConf)</span>
 - <span class=“science.computer”>[Erik Meijer and Brian Beckman's Inside the .NET Reactive Framework (Rx)](https://www.youtube.com/watch?v=looJcaeboBY) (2009)</span>
-- [Tony Hsieh's Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose-ebook/dp/B003JTHXN6) (2010)
-- [Marc Shapiro, Nuno Preguiça, Carlos Baquero and Marek Zawirski's CRDTs (Conflict-Free Replicated Data Types)](https://www.youtube.com/watch?v=9xFfOhasiOE) (2011)
-- [Microsoft's Lang.NEXT](https://learn.microsoft.com/en-us/events/lang-next-2012) (2012)
-  - [2012](https://learn.microsoft.com/en-us/events/lang-next-2012) (2012)
-  - [2014](https://learn.microsoft.com/en-us/events/lang-next-2014) (2014)
-- [Scott Vokes's Data Structures: The Code That Isn't There](https://www.infoq.com/presentations/Data-Structures) (2013)
+- <span class=“business”>[Tony Hsieh's Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose-ebook/dp/B003JTHXN6) (2010)</span>
+- <span class=“science.computer”>[Marc Shapiro, Nuno Preguiça, Carlos Baquero and Marek Zawirski's CRDTs (Conflict-Free Replicated Data Types)](https://www.youtube.com/watch?v=9xFfOhasiOE) (2011)</span>
+- <span class=“science.computer”>[Microsoft's Lang.NEXT](https://learn.microsoft.com/en-us/events/lang-next-2012) (2012)</span>
+  - <span class=“science.computer”>[2012](https://learn.microsoft.com/en-us/events/lang-next-2012) (2012)</span>
+  - <span class=“science.computer”>[2014](https://learn.microsoft.com/en-us/events/lang-next-2014) (2014)</span>
+- <span class=“science.computer”>[Scott Vokes's Data Structures: The Code That Isn't There](https://www.infoq.com/presentations/Data-Structures) (2013)</span>
 - [David P. Reed Reed's Law](https://en.wikipedia.org/wiki/Reed%27s_law) (2013)
 - [Peter Thiel's Zero to One - Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B003JTHXN6) (2014)
 - [Bartosz Milewski's Category Theory For Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) (2014)
