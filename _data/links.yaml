@@ -62,3 +62,17 @@
 - { name: "Don Syme's F#", category: "science.computer", url: "https://walkingcat.github.io/ch9-index/Series_C9-Lectures-Dr-Don-Syme-Introduction-to-F-.html", era: "CE", year: 2005 }
 - { name: "Anders Hejlsberg's .NET", category: "science.computer", url: "https://en.wikipedia.org/wiki/.NET_Framework", era: "CE", year: 2002 }
 - { name: "Anders Hejlsberg's C#", category: "science.computer", url: "https://en.wikipedia.org/wiki/C_Sharp_syntax", era: "CE", year: 2000 }
+- { name: "Douglas Hofstadter's Strange Loop", category: "paradox", url: "https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8", era: "CE", year: 2007 }
+- { name: "Georg Ferdinand Ludwig Philipp Cantor's Dangerous Knowledge", category: "health.mental", url: "https://rutracker.org", era: "CE", year: 2007, sublinks: [
+    { name: "tpb's Part 1", category: "hacker", url: "https://tpb.party/torrent/4235405/BBC_Dangerous_Knowledge_1of2_2007_DVBC_XviD_MP3", era: "CE", year: 2007 },
+    { name: "tpb's Part 2", category: "hacker", url: "https://tpb.party/torrent/4235408/BBC_Dangerous_Knowledge_2of2_2007_DVBC_XviD_MP3", era: "CE", year: 2007 },
+    { name: "My Private Garden", category: "hacker", url: "torrentleech.org", era: "CE", year: 2007 } ]}
+- { name: "TGC's Philosophy of Mind, Brains, Consciousness, and Thinking Machines", category: "philosophy", url: "https://www.thegreatcourses.com/courses/philosophy-of-mind-brains-consciousness-and-thinking-machines", era: "CE", year: 2008 }
+- { name: "Alex Miller's Strange Loop Conference", category: "conference.science.computer", url: "https://thestrangeloop.com", era: "CE", year: 2009, sublinks: [
+    { name: "YouTube's Videos", category: "conference.science.computer", url: "https://www.youtube.com/@StrangeLoopConf", era: "CE", year: 2009 } ]}
+- { name: "Erik Meijer and Brian Beckman's Inside the .NET Reactive Framework (Rx)", category: "science.computer", url: "https://www.youtube.com/watch?v=looJcaeboBY", era: "CE", year: 2009 }
+- { name: "Tony Hsieh's Delivering Happiness: A Path to Profits, Passion, and Purpose", category: "business", url: "https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose-ebook/dp/B003JTHXN6", era: "CE", year: 2010 }
+- { name: "Marc Shapiro, Nuno Preguiça, Carlos Baquero and Marek Zawirski's CRDTs (Conflict-Free Replicated Data Types)", category: "science.computer", url: "https://www.youtube.com/watch?v=9xFfOhasiOE", era: "CE", year: 2011 }
+- { name: "Microsoft's Lang.NEXT", category: "science.computer", url: "https://learn.microsoft.com/en-us/events/lang-next-2012", era: "CE", year: 2012, sublinks: [
+    { name: "2012", category: "science.computer", url: "https://learn.microsoft.com/en-us/events/lang-next-2012", era: "CE", year: 2012 },
+    { name: "2014", category: "science.computer", url: "https://learn.microsoft.com/en-us/events/lang-next-2014", era: "CE", year: 2014 } ]}
