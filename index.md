@@ -28,6 +28,7 @@ layout: default
 - [Bill Gates's Microsoft](https://microsoft.com)
 - [Microsoft's Azure Cloud](https://azure.com)
 - [Erik Meijer's Functional Programming Fundamentals with Haskell](https://learn.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals)
+- [Don Syme's F#](https://walkingcat.github.io/ch9-index/Series_C9-Lectures-Dr-Don-Syme-Introduction-to-F-.html)
 - [Leslie Lamport's Temporal Logic Analyzer](https://lamport.azurewebsites.net/tla/tla.html)
 - [Anders Hejlsberg's .NET](https://en.wikipedia.org/wiki/.NET_Framework)
 - [Anders Hejlsberg's C#](https://en.wikipedia.org/wiki/C_Sharp_syntax)
