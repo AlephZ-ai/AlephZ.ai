@@ -20,7 +20,7 @@ layout: default
 - [Erik Meijer's Functional Programming Fundamentals with Haskell](https://learn.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals)
 - [Leslie Lamport's Temporal Logic Analyzer](https://lamport.azurewebsites.net/tla/tla.html)
 - Nick Chapsas's dotnet Training
-  - [YouTube]((https://www.youtube.com/@nickchapsas)
+  - [YouTube](https://www.youtube.com/@nickchapsas)
   - [Dometrain](https://dometrain.com)
 - [Microsoft's Semantic Kernel](https://github.com/microsoft/semantic-kernel)
   - [Build](https://youtu.be/EB90z-ugdl8)
