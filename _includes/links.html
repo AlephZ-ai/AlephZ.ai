@@ -17,6 +17,13 @@
     {% else %}
       ({{ link.year }})
     {% endif %}
+    {% if link.sublinks %}
+      <ul>
+      {% for sublink in link.sublinks %}
+        <li><a href="{{ sublink.url }}">{{ sublink.name }}</a></li>
+      {% endfor %}
+      </ul>
+    {% endif %}
   </li>
 {% endfor %}
 </ul>
