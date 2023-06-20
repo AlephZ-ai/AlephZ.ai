@@ -23,9 +23,9 @@ layout: default
 - <span class=“science.computer”>[First Computer Bug was an Actual "Bug"](https://education.nationalgeographic.org/resource/worlds-first-computer-bug) (1947)</span>
 - <span class=“science.computer”>[Dr. Grace Hopper - World's first Coder and Bug finder](https://www.biography.com/scientist/grace-hopper) (1949)</span>
 - <span class=“science.computer”>[John von Neumann's Archiceture](https://en.wikipedia.org/wiki/Von_Neumann_architecture) (1945)</span>
-- <span class=“fiction”>[Isaac Asimov's Foundation](https://www.amazon.com/Foundation-Isaac-Asimov-audiobook/dp/B003IF37TK) (1951)</span>
+- <span class=“fiction.science”>[Isaac Asimov's Foundation](https://www.amazon.com/Foundation-Isaac-Asimov-audiobook/dp/B003IF37TK) (1951)</span>
 - <span class=“science.computer”>[Nathaniel Rochester's Assembly](https://en.wikipedia.org/wiki/Assembly_language) (1954)</span>
-- <span class=“fiction”>[Madeleine L'Engle's A Wrinkle in Time](https://www.amazon.com/Wrinkle-Time-Archival-Author-Quintet/dp/B07JHTMZFX) (1962)</span>
+- <span class=“fiction.science”>[Madeleine L'Engle's A Wrinkle in Time](https://www.amazon.com/Wrinkle-Time-Archival-Author-Quintet/dp/B07JHTMZFX) (1962)</span>
 - <span class=“physics”>[Richard Feynman's Lectures](https://en.wikipedia.org/wiki/Richard_Feynman) (1964)</span>
   - <span class=“physics”>[YouTube's Playlist](https://www.youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2)</span>
   - <span class=“physics”>[YouTube's The Character of Physical Law (1964)](https://www.youtube.com/watch?v=kEx-gRfuhhk)</span>
