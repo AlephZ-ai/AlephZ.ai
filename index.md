@@ -22,13 +22,13 @@ layout: default
 - <span class=“computers”>[First Computer Bug was an Actual "Bug"](https://education.nationalgeographic.org/resource/worlds-first-computer-bug) (1947)</span>
 - <span class=“computers”>[Dr. Grace Hopper - World's first Coder and Bug finder](https://www.biography.com/scientist/grace-hopper) (1949)</span>
 - <span class=“computers”>[John von Neumann's Archiceture](https://en.wikipedia.org/wiki/Von_Neumann_architecture) (1945)</span>
-- [Isaac Asimov's Foundation](https://www.amazon.com/Foundation-Isaac-Asimov-audiobook/dp/B003IF37TK) (1951)
+- <span class=“fiction”>[Isaac Asimov's Foundation](https://www.amazon.com/Foundation-Isaac-Asimov-audiobook/dp/B003IF37TK) (1951)</span>
 - <span class=“computers”>[Nathaniel Rochester's Assembly](https://en.wikipedia.org/wiki/Assembly_language) (1954)</span>
-- [Madeleine L'Engle's A Wrinkle in Time](https://www.amazon.com/Wrinkle-Time-Archival-Author-Quintet/dp/B07JHTMZFX) (1962)
-- [Richard Feynman's Lectures](https://en.wikipedia.org/wiki/Richard_Feynman) (1964)
-  - [YouTube's Playlist](https://www.youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2)
-  - [YouTube's The Character of Physical Law (1964)](https://www.youtube.com/watch?v=kEx-gRfuhhk)
-  - [CalTech's The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)
+- <span class=“fiction”>[Madeleine L'Engle's A Wrinkle in Time](https://www.amazon.com/Wrinkle-Time-Archival-Author-Quintet/dp/B07JHTMZFX) (1962)</span>
+- <span class=“physics”>[Richard Feynman's Lectures](https://en.wikipedia.org/wiki/Richard_Feynman) (1964)</span>
+  - <span class=“physics”>[YouTube's Playlist](https://www.youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2)</span>
+  - <span class=“physics”>[YouTube's The Character of Physical Law (1964)](https://www.youtube.com/watch?v=kEx-gRfuhhk)</span>
+  - <span class=“physics”>[CalTech's The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)</span>
 - [Bill Gates's Microsoft](https://microsoft.com) (1975)
 - [Richard Dawkins's The Selfish Gene - What are Memes](https://www.amazon.com/Extended-Selfish-Gene-Richard-Dawkins-dp-0198788789/dp/0198788789) (1976)
 - [René Girard's Things Hidden Since the Foundation of the World - How Memes Work](https://www.amazon.com/Things-Hidden-Since-Foundation-World-ebook/dp/B0C6TWDPMR) (1978)
