@@ -4,6 +4,8 @@ layout: default
 
 # AI for Prompt Engineers
 - [The Egg](http://www.galactanet.com/oneoff/theegg_mod.html)
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
+  - [Build](https://youtu.be/EB90z-ugdl8)
 - [Meta Learning](https://rosmulski.gumroad.com/l/learn_machine_learning)
 - [MIT Missing Computer Science Semester](https://missing.csail.mit.edu)
 - [Harvard Computer Science 50 - Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
@@ -16,7 +18,7 @@ layout: default
 - [Infer.NET](https://github.com/dotnet/infer)
 - [VideoLectures.net - Everything, Everywhere, All at Once](http://videolectures.net)
 - [The Selfish Gene - What are Memes](https://www.amazon.com/Selfish-Gene-Richard-Dawkins/dp/0199291144)
-- [Things Hidden Since the Foundatinon of the World - How Memes Work](https://www.amazon.com/Things-Hidden-Since-Foundation-World-ebook/dp/B0C6TWDPMR)
+- [Things Hidden Since the Foundation of the World - How Memes Work](https://www.amazon.com/Things-Hidden-Since-Foundation-World-ebook/dp/B0C6TWDPMR)
 - [Memetics](https://en.wikipedia.org/wiki/Memetics)
 - [Zero to One - Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ)
 - [Wanting: The Power of Mimetic Desire in Everyday Life](https://www.amazon.com/gp/product/1250262488)
