@@ -2,7 +2,15 @@
   <li>
     <a href="{{ link.url }}">{{ link.name }}</a>
     {% if link.era == "BCE" %}
-      (c. {{ link.year | number_to_delimited: "," }} BC)
+      {% assign n = link.year %}
+      {% assign parts = n | divided_by: 1000 %}
+      {% assign remainder = n | modulo: 1000 %}
+      {% if parts > 0 %}
+        {% assign formatted_number = parts | append: "," | append: remainder %}
+      {% else %}
+        {% assign formatted_number = n %}
+      {% endif %}
+      (c. {{ formatted_number }} BC)
     {% else %}
       ({{ link.year }})
     {% endif %}
