@@ -4,17 +4,6 @@ layout: default
 
 # AI for Prompt Engineers
 {% include links.html %}
-- <span class=“science.computer”>[Leslie Lamport's Distributed Consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science)) (1982)</span>
-  - <span class=“science.computer”>[Hillel Wayne's Tackling Concurrency Bugs with TLA+](https://www.youtube.com/watch?v=_9B__0S21y8&t=554s) (2019)</span>
-  - <span class=“science.computer”>[Leslie Lamport's Paxos Consensus](https://en.wikipedia.org/wiki/Paxos_(computer_science)) (1998)</span>
-    - <span class=“science.computer”>[YouToube's Part 1](https://www.youtube.com/watch?v=tw3gsBms-f8) (2017)</span>
-    - <span class=“science.computer”>[YouToube's Part 2](https://www.youtube.com/watch?v=8-Bc5Lqgx_c) (2017)</span>
-  - <span class=“science.computer”>[Stanford's Raft Consensus](https://www.youtube.com/watch?v=ro2fU8_mr2w) (2014)</span>
-  - <span class=“science.computer”>[Cynthia Dwork and Moni Naor's Blockchain Consensus](https://www.cbcamerica.org/blockchain-insights/blockchain-consensus-algorithms-what-and-how) (1992)</span>
-  - <span class=“science.computer”>[Satoshi Nakamoto's Proof of Work (PoW) Consensus](https://www.youtube.com/watch?v=3EUAcxhuoU4) (2008)</span>
-  - <span class=“science.computer”>[Sunny King and Scott Nadal's Proof of Stake (PoS) Consensus](https://www.youtube.com/watch?v=psKDXvXdr7k) (2012)</span>
-  - <span class=“science.computer”>[Mike Anderson's Beyond Blockchain: Convergent Consensus](https://thestrangeloop.com/2022/beyond-blockchain-convergent-consensus.html) (2022)</span>
-- <span class="evolution.cultural">[Wikipedia's Memetics](https://en.wikipedia.org/wiki/Memetics) (1982)</span>
 - <span class=“science.computer”>[Massachusetts Institute of Technology (MIT)'s Structure and Interpretation of Computer Programs (SICP) 6.001 Undergraduate](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures) (1981)</span>
 - <span class=“science.computer”>[Leslie Lamport's Temporal Logic Analyzer](https://lamport.azurewebsites.net/tla/tla.html) (1994)</span>
 - <span class="spirituality">[Dr. Jamisson Neruda's Interviews](https://www.wingmakers.com/wp-content/uploads/2014/04/The-Complete-Neruda-Interviews-1-5.pdf) (1998)</span>
