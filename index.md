@@ -55,16 +55,16 @@ layout: default
 - <span class="terminology">[Wikipedia's Pages](https://en.wikipedia.org/wiki/History_of_Wikipedia) (2001)</span>
 - <span class="education">[Sal Khan's Academy](https://www.khanacademy.org) (2006)</span>
 - <span class="education">[VideoLectures.net's - Everything, Everywhere, All at Once](http://videolectures.net) (2007)</span>
-- [Stanford's Computer Science 229 - Machine Learning](https://see.stanford.edu/Course/CS229) (2008)
-- [Microsoft's Infer.NET](https://github.com/dotnet/infer) (2008)
+- <span class=“science.computer”>[Stanford's Computer Science 229 - Machine Learning](https://see.stanford.edu/Course/CS229) (2008)</span>
+- <span class=“science.computer”>[Microsoft's Infer.NET](https://github.com/dotnet/infer) (2008)</span>
 - [Andy Weir's The Egg](http://www.galactanet.com/oneoff/theegg_mod.html) (2009)
-- [MIT's Missing Computer Science Semester](https://missing.csail.mit.edu) (2019)
-- [Harvard's Computer Science 50 - Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-science.computer) (2007)
-- [Microsoft's Azure Cloud](https://azure.com) (2010)
-- [Erik Meijer's Functional Programming Fundamentals with Haskell](https://learn.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals) (2010)
-- [Don Syme's F#](https://walkingcat.github.io/ch9-index/Series_C9-Lectures-Dr-Don-Syme-Introduction-to-F-.html) (2005)
-- [Anders Hejlsberg's .NET](https://en.wikipedia.org/wiki/.NET_Framework) (2002)
-- [Anders Hejlsberg's C#](https://en.wikipedia.org/wiki/C_Sharp_syntax) (2000)
+- <span class=“science.computer”>[MIT's Missing Computer Science Semester](https://missing.csail.mit.edu) (2019)</span>
+- <span class=“science.computer”>[Harvard's Computer Science 50 - Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-science.computer) (2007)</span>
+- <span class=“science.computer”>[Microsoft's Azure Cloud](https://azure.com) (2010)</span>
+- <span class=“science.computer”>[Erik Meijer's Functional Programming Fundamentals with Haskell](https://learn.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals) (2010)</span>
+- <span class=“science.computer”>[Don Syme's F#](https://walkingcat.github.io/ch9-index/Series_C9-Lectures-Dr-Don-Syme-Introduction-to-F-.html) (2005)</span>
+- <span class=“science.computer”>[Anders Hejlsberg's .NET](https://en.wikipedia.org/wiki/.NET_Framework) (2002)</span>
+- <span class=“science.computer”>[Anders Hejlsberg's C#](https://en.wikipedia.org/wiki/C_Sharp_syntax) (2000)</span>
 - [Douglas Hofstadter's Strange Loop](https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8) (2007)
 - [Georg Ferdinand Ludwig Philipp Cantor's Dangerous Knowledge](https://rutracker.org) (2007)
   - [tpb's Part 1](https://tpb.party/torrent/4235405/BBC_Dangerous_Knowledge_1of2_2007_DVBC_XviD_MP3)
