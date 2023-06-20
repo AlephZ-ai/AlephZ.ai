@@ -9,6 +9,7 @@ layout: default
 - [MIT Structure and Interpretation of Computer Programs (SICP) 6.001 Undergraduate](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures)
 - [Eukleides's Geometry](https://www.bing.com/search?q=euclidean+geometry)
 - [Pythagoras of Samos's Theorem](https://resources.wolframcloud.com/FormulaRepository/resources/Pythagorean-Theorem)
+- [Georg Friedrich Bernhard Riemann's Hypothesis](https://youtu.be/YTCE2SXguwU)
 - [John Babbage's Engine](https://www.computerhistory.org/babbage)
 - [Ada Lovelace - World's first Programmer](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer)
 - [Alonzo Church's Lambda (λ) Calculus](https://plato.stanford.edu/entries/church/supplementD.html)
@@ -17,7 +18,7 @@ layout: default
 - [Dr. Grace Hopper - World's first Coder and Bug finder](https://www.biography.com/scientist/grace-hopper)
 - [John von Neumann's Archiceture](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
 - [Erik Meijer - Functional Programming Fundamentals with Haskell](https://learn.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals)
-- Nick Chapsas's Dotnet Training
+- Nick Chapsas's dotnet Training
   - [YouTube]((https://www.youtube.com/@nickchapsas)
   - [Dometrain](https://dometrain.com)
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
