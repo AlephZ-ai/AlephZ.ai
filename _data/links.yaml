@@ -74,7 +74,6 @@
 - { name: "Scott Vokes's Data Structures: The Code That Isn't There", category: "science.computer", url: "https://www.infoq.com/presentations/Data-Structures", era: "CE", year: 2013 }
 - { name: "David P. Reed Reed's Law", category: "theory.science.computer.network", url: "https://en.wikipedia.org/wiki/Reed%27s_law", era: "CE", year: 2013 }
 - { name: "Stanford's Raft Consensus", category: science.computer.consensus.distributed, url: "https://www.youtube.com/watch?v=ro2fU8_mr2w", era: CE, year: 2014 }
-- { name: "MIT's Missing Computer Science Semester", category: "science.computer", url: "https://missing.csail.mit.edu", era: "CE", year: 2019 }
 - { name: "Sunny King and Scott Nadal's Proof of Stake (PoS) Consensus", category: science.computer.consensus.distributed, url: "https://www.youtube.com/watch?v=psKDXvXdr7k", era: CE, year: 2012 }
 - { name: "Peter Thiel's Zero to One - Notes on Startups, or How to Build the Future", category: "business", url: "https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B003JTHXN6", era: "CE", year: 2014 }
 - { name: "Bartosz Milewski's Category Theory For Programmers", category: "math", url: "https://github.com/hmemcpy/milewski-ctfp-pdf", era: "CE", year: 2014 }
@@ -82,12 +81,13 @@
 - { name: "David Fowler's ASP.NET Core", category: "science.computer", url: "https://asp.net", era: "CE", year: 2016 }
 - { name: "Fast AI's Courses", category: "science.computer.ai", url: "https://course.fast.ai", era: "CE", year: 2017 }
 - { name: "Mads Torgersen's C#", category: "science.computer", url: "https://github.com/dotnet/csharplang", era: "CE", year: 2017 }
+- { name: "Jeff Hawkins's Computing Like the Brain", category: "science.computer.bioinformatics", url: "https://www.youtube.com/watch?v=VVbqlwCqWFc", era: "CE", year: 2017 }
+- { name: "Fast AI's Computational Linear Algebra for Coders", category: "science.computer.ml", url: "https://github.com/fastai/numerical-linear-algebra", era: "CE", year: 2017 }
 - { name: "Saifedean Ammous's The Bitcoin Standard: The Decentralized Alternative to Central Banking", category: "science.computer.economics", url: "https://www.amazon.com/gp/product/1119473861", era: "CE", year: 2018 }
+- { name: "MIT's Missing Computer Science Semester", category: "science.computer", url: "https://missing.csail.mit.edu", era: "CE", year: 2019 }
 - { name: "Nick Chapsas's dotnet Training", category: "science.computer", url: "https://twitter.com/nickchapsas", era: "CE", year: 2019, sublinks: [
     { name: "YouTube's Videos", category: "science.computer", url: "https://www.youtube.com/@nickchapsas", era: "CE", year: 2019 },
     { name: "Dometrain's Courses", category: "science.computer", url: "https://dometrain.com", era: "CE", year: 2019 } ]}
-- { name: "Jeff Hawkins's Computing Like the Brain", category: "science.computer.bioinformatics", url: "https://www.youtube.com/watch?v=VVbqlwCqWFc", era: "CE", year: 2017 }
-- { name: "Fast AI's Computational Linear Algebra for Coders", category: "science.computer.ml", url: "https://github.com/fastai/numerical-linear-algebra", era: "CE", year: 2017 }
 - { name: "Michael R. Jackson's Strange Loop Musical", category: "theatre.musical", url: "https://strangeloopmusical.com", era: "CE", year: 2019 }
 - { name: "Fast AI's Lesson 0", category: "science.computer.ai", url: "https://www.youtube.com/watch?v=gGxe2mN3kAg", era: "CE", year: 2019 }
 - { name: "Alissa Pajer's Category Theory: An Abstraction for Anything", category: "math", url: "https://www.youtube.com/watch?v=OLh7KKgyHoY", era: "CE", year: 2020 }
