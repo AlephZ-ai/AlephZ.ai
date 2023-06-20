@@ -46,23 +46,23 @@
 - { name: "Anders Hejlsberg's C#", category: "science.computer", url: "https://en.wikipedia.org/wiki/C_Sharp_syntax", era: "CE", year: 2000 }
 - { name: "Anders Hejlsberg's .NET", category: "science.computer", url: "https://en.wikipedia.org/wiki/.NET_Framework", era: "CE", year: 2002 }
 - { name: "Wikipedia's Pages", category: "reference.encyclopedia", url: "https://en.wikipedia.org/wiki/History_of_Wikipedia", era: "CE", year: 2001 }
-- { name: "Satoshi Nakamoto's Proof of Work (PoW) Consensus", category: science.computer.consensus.distributed, url: "https://www.youtube.com/watch?v=3EUAcxhuoU4", era: CE, year: 2008 }
+- { name: "Don Syme's F#", category: "science.computer", url: "https://walkingcat.github.io/ch9-index/Series_C9-Lectures-Dr-Don-Syme-Introduction-to-F-.html", era: "CE", year: 2005 }
 - { name: "Sal Khan's Academy", category: "education", url: "https://www.khanacademy.org", era: "CE", year: 2006 }
 - { name: "VideoLectures.net's - Everything, Everywhere, All at Once", category: "education", url: "http://videolectures.net", era: "CE", year: 2007 }
-- { name: "Stanford's Computer Science 229 - Machine Learning", category: "science.computer.ml", url: "https://see.stanford.edu/Course/CS229", era: "CE", year: 2008 }
-- { name: "Microsoft's Infer.NET", category: "science.computer", url: "https://github.com/dotnet/infer", era: "CE", year: 2008 }
-- { name: "Andy Weir's The Egg", category: "philosophy", url: "http://www.galactanet.com/oneoff/theegg_mod.html", era: "CE", year: 2009 }
-- { name: "MIT's Missing Computer Science Semester", category: "science.computer", url: "https://missing.csail.mit.edu", era: "CE", year: 2019 }
 - { name: "Harvard's Computer Science 50 - Introduction to Computer Science", category: "science.computer", url: "https://pll.harvard.edu/course/cs50-introduction-science.computer", era: "CE", year: 2007 }
-- { name: "Microsoft's Azure Cloud", category: "science.computer", url: "https://azure.com", era: "CE",year: 2010 }
-- { name: "Erik Meijer's Functional Programming Fundamentals with Haskell", category: "science.computer", url: "https://learn.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals", era: "CE", year: 2010 }
-- { name: "Don Syme's F#", category: "science.computer", url: "https://walkingcat.github.io/ch9-index/Series_C9-Lectures-Dr-Don-Syme-Introduction-to-F-.html", era: "CE", year: 2005 }
-- { name: "Douglas Hofstadter's Strange Loop", category: "paradox", url: "https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8", era: "CE", year: 2007 }
+- { name: "Douglas Hofstadter's I Am a Strange Loop", category: "paradox", url: "https://www.amazon.com/I-Am-Strange-Loop-audiobook/dp/B07HJCBXD8", era: "CE", year: 2007 }
 - { name: "Georg Ferdinand Ludwig Philipp Cantor's Dangerous Knowledge", category: "health.mental", url: "https://rutracker.org", era: "CE", year: 2007, sublinks: [
     { name: "tpb's Part 1", category: "hacker", url: "https://tpb.party/torrent/4235405/BBC_Dangerous_Knowledge_1of2_2007_DVBC_XviD_MP3", era: "CE", year: 2007 },
     { name: "tpb's Part 2", category: "hacker", url: "https://tpb.party/torrent/4235408/BBC_Dangerous_Knowledge_2of2_2007_DVBC_XviD_MP3", era: "CE", year: 2007 },
     { name: "My Private Garden", category: "hacker", url: "torrentleech.org", era: "CE", year: 2007 } ]}
+- { name: "Satoshi Nakamoto's Proof of Work (PoW) Consensus", category: science.computer.consensus.distributed, url: "https://www.youtube.com/watch?v=3EUAcxhuoU4", era: CE, year: 2008 }
+- { name: "Stanford's Computer Science 229 - Machine Learning", category: "science.computer.ml", url: "https://see.stanford.edu/Course/CS229", era: "CE", year: 2008 }
+- { name: "Microsoft's Infer.NET", category: "science.computer", url: "https://github.com/dotnet/infer", era: "CE", year: 2008 }
 - { name: "TGC's Philosophy of Mind, Brains, Consciousness, and Thinking Machines", category: "philosophy", url: "https://www.thegreatcourses.com/courses/philosophy-of-mind-brains-consciousness-and-thinking-machines", era: "CE", year: 2008 }
+- { name: "Andy Weir's The Egg", category: "philosophy", url: "http://www.galactanet.com/oneoff/theegg_mod.html", era: "CE", year: 2009 }
+- { name: "MIT's Missing Computer Science Semester", category: "science.computer", url: "https://missing.csail.mit.edu", era: "CE", year: 2019 }
+- { name: "Microsoft's Azure Cloud", category: "science.computer", url: "https://azure.com", era: "CE",year: 2010 }
+- { name: "Erik Meijer's Functional Programming Fundamentals with Haskell", category: "science.computer", url: "https://learn.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals", era: "CE", year: 2010 }
 - { name: "Alex Miller's Strange Loop Conference", category: "conference.science.computer", url: "https://thestrangeloop.com", era: "CE", year: 2009, sublinks: [
     { name: "YouTube's Videos", category: "conference.science.computer", url: "https://www.youtube.com/@StrangeLoopConf", era: "CE", year: 2009 } ]}
 - { name: "Erik Meijer and Brian Beckman's Inside the .NET Reactive Framework (Rx)", category: "science.computer", url: "https://www.youtube.com/watch?v=looJcaeboBY", era: "CE", year: 2009 }
