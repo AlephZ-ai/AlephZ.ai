@@ -47,7 +47,7 @@ layout: default
 - [Tony Hsieh's Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose-ebook/dp/B003JTHXN6)
 - [Kirsten Grind's Happy at Any Cost: The Revolutionary Vision and Fatal Quest of Zappos CEO Tony Hsieh](https://www.amazon.com/Happy-Any-Cost-Revolutionary-Vision/dp/B09GW9GDGC)
 - [Saifedean Ammous's The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/gp/product/1119473861)
-- [A Wrinkle in Time](https://www.amazon.com/Wrinkle-Time-Archival-Author-Quintet/dp/B07JHTMZFX)
+- [Madeleine L'Engle's A Wrinkle in Time](https://www.amazon.com/Wrinkle-Time-Archival-Author-Quintet/dp/B07JHTMZFX)
 - [Isaac Asimov's Foundation](https://www.amazon.com/Foundation-Isaac-Asimov-audiobook/dp/B003IF37TK)
 - Dangerous Knowledge
   - [Part 1](https://tpb.party/torrent/4235405/BBC_Dangerous_Knowledge_1of2_2007_DVBC_XviD_MP3)
