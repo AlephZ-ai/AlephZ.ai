@@ -1,0 +1,16 @@
+<ul>
+  {% for anchor in include.anchors %}
+  <li>
+    <a href="{{ anchor.content-protocol }}://{{ anchor.content-source }}{{ anchor.content }}">{{ anchor.entity-long }}'s
+      {{ anchor.word }}</a>
+    {% if anchor.era == "bce" %}
+    (c. <span class="formatted-number">{{ anchor.year }}</span> BC)
+    {% else %}
+    ({{ anchor.year }})
+    {% endif %}
+    {% if anchor.sub-anchors %}
+    {% include sub-anchors.html anchors=anchor.sub-anchors %}
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>

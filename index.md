@@ -3,4 +3,7 @@ layout: default
 ---
 
 # AI for Prompt Engineers
-{% include links.html %}
+
+## Warning this is a work in progress and many things will be broken or wrong
+
+{% include anchors.html %}
