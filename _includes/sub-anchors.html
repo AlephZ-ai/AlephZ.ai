@@ -1,15 +1,15 @@
 <ul>
-  {% for anchor in include.anchors %}
+  {% for sub_anchor in include.sub_anchors %}
   <li>
-    <a href="{{ anchor.content-protocol }}://{{ anchor.content-source }}{{ anchor.content }}">{{ anchor.entity }}'s
-      {{ anchor.word }}</a>
-    {% if anchor.era == "bce" %}
-    (c. <span class="formatted-number">{{ anchor.year }}</span> BC)
+    <a href="{{ sub_anchor.content-protocol }}://{{ sub_anchor.content-source }}{{ sub_anchor.content }}">{{ sub_anchor.entity }}'s
+      {{ sub_anchor.name }}</a>
+    {% if sub_anchor.era == "bce" %}
+    (c. <span class="formatted-number">{{ sub_anchor.year }}</span> BC)
     {% else %}
-    ({{ anchor.year }})
+    ({{ sub_anchor.year }})
     {% endif %}
-    {% if anchor.sub-anchors %}
-    {% include sub-anchors.html anchors=anchor.sub-anchors %}
+    {% if sub_anchor.sub-anchors %}
+    {% include sub-anchors.html sub_anchor=sub_anchor.sub-anchors %}
     {% endif %}
   </li>
   {% endfor %}
