@@ -11,14 +11,14 @@
 <ul>
   {% for anchor in site.data.anchors %}
   <li>
-    <a href="{{ anchor['content-protocol'] }}://{{ anchor['content-source'] }}{{ anchor.content }}">{{ anchor.entity }}'s {{ anchor.word }}</a>
+    <a href="{{ anchor.content-protocol }}://{{ anchor.content-source }}{{ anchor.content }}">{{ anchor.entity }}'s {{ anchor.word }}</a>
     {% if anchor.era == "bce" %}
     (c. <span class="formatted-number">{{ anchor.year }}</span> BC)
     {% else %}
     ({{ anchor.year }})
     {% endif %}
-    {% if anchor['sub-anchors'] %}
-    {% include sub-anchors.html sub_anchors=anchor['sub-anchors'] %}
+    {% if anchor.sub-anchors %}
+    {% include sub-anchors.html sub_anchors=anchor.sub-anchors %}
     {% endif %}
   </li>
   {% endfor %}
