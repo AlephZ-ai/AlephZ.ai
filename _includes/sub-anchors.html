@@ -1,7 +1,7 @@
 <ul>
   {% for anchor in include.anchors %}
   <li>
-    <a href="{{ anchor.content-protocol }}://{{ anchor.content-source }}{{ anchor.content }}">{{ anchor.entity-long }}'s
+    <a href="{{ anchor.content-protocol }}://{{ anchor.content-source }}{{ anchor.content }}">{{ anchor.entity }}'s
       {{ anchor.word }}</a>
     {% if anchor.era == "bce" %}
     (c. <span class="formatted-number">{{ anchor.year }}</span> BC)
