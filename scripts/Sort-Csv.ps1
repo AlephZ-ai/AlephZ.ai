@@ -7,8 +7,10 @@ param (
   [string[]]$sortColumns
 )
 
+# TODO: Figure out why this is breaking Jekyll
+
 # Import the CSV file
-$data = Import-Csv -Path $csv
+$data = Import-Csv -Encoding UTF8 -Path $csv
 
 # Sort the data by the provided columns
 $sortedData = $data | Sort-Object $sortColumns
