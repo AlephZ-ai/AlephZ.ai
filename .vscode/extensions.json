@@ -29,6 +29,17 @@
     "pflannery.vscode-versionlens",
     "jetmartin.bats",
     "davidanson.vscode-markdownlint",
-    "christian-kohler.npm-intellisense"
+    "christian-kohler.npm-intellisense",
+    "ms-edgedevtools.vscode-edge-devtools",
+    "sissel.shopify-liquid",
+    "eliostruyf.vscode-front-matter-beta",
+    "rohgarg.jekyll-post",
+    "ginfuru.ginfuru-vscode-jekyll-syntax",
+    "ginfuru.vscode-jekyll-snippets",
+    "dedsec727.jekyll-run",
+    "koichisasada.vscode-rdbg",
+    "shopify.vscode-shadowenv",
+    "sorbet.sorbet-vscode-extension",
+    "tabnine.tabnine-vscode"
   ]
 }
