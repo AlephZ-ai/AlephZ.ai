@@ -14,4 +14,4 @@ $data = Import-Csv -Path $csv
 $sortedData = $data | Sort-Object $sortColumns
 
 # Export the sorted data to a new CSV file
-$sortedData | Export-Csv -Path $csv -NoTypeInformation -Force
+$sortedData | Export-Csv -Encoding UTF8 -Path $csv -NoTypeInformation -Force
