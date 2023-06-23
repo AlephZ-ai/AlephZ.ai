@@ -39,6 +39,10 @@
     "koichisasada.vscode-rdbg",
     "sorbet.sorbet-vscode-extension",
     "tabnine.tabnine-vscode",
-    "kargware.vscode-extension-jekyll-kw"
+    "kargware.vscode-extension-jekyll-kw",
+    "mechatroner.rainbow-csv",
+    "janisdd.vscode-edit-csv",
+    "khaeransori.json2csv",
+    "grapecity.gc-excelviewer"
   ]
 }
